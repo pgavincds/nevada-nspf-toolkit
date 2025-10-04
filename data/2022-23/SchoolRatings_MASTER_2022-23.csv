@@ -1,0 +1,862 @@
+Year,District Code,District Name,NSPF School Code,School Name,School Type,Total Index Score,Star Rating,Title I Status,% Proficient ELA,% Proficient Math,% Proficient Science,95% Participation Met Mathematics,95% Participation Met ELA,Participation Warning,Participation Penalty,Continuing Participation Penalty,% Meeting AGP ELA,% Meeting AGP Math,% Meeting AGP EL,NAC 389.445 Credit Requirements (8th Grade),9th Grade Credit Sufficiency,CCR Participation,CCR Completion,Advanced Diploma,4-Year Graduation Rate,5-Year Graduation Rate,Chronic Absenteeism,CSI,Yrs In Designation As CSI,TSI,Yrs In Designation As TSI,ATSI,Yrs In Designation As ATSI,district_id,district_name,year
+2023,1,Churchill,1205.1,Best ES,Regular,21.11,Not Rated,YES,27.2,31.5,,YES,YES,NO,NO,NO,,,35.4,,,,,,,,19.7,NO,,NO,,NO,,64826,Carson City,2023
+2023,1,Churchill,1206.1,Lahontan ES,Regular,5.0,Not Rated,YES,,,,,,NO,NO,NO,,,11.7,,,,,,,,25.2,NO,,NO,,NO,,64826,Carson City,2023
+2023,1,Churchill,1207.1,Numa ES,Regular,15.79,1,YES,35.2,25.9,12.0,YES,YES,NO,NO,NO,34.9,26.7,33.3,,,,,,,,24.0,NO,,YES,,NO,,64826,Carson City,2023
+2023,1,Churchill,1301.2,Churchill MS,Regular,13.0,1,YES,30.9,15.6,30.7,YES,YES,YES,YES,NO,28.9,13.6,8,15.9,,,,,,,25.2,NO,,NO,,YES,1.0,64826,Carson City,2023
+2023,1,Churchill,1401.3,Churchill HS,Regular,38.5,2,NO,45.3,17.9,16.6,NO,NO,YES,NO,NO,,,<5,,83.3,58.4,26.1,29.5,79.7,84.4,31.1,NO,,NO,,NO,,64826,Carson City,2023
+2023,2,Clark,2060.1,Thompson T ES,Regular,62.0,3,NO,59.5,57.4,32.4,YES,YES,NO,NO,NO,46.9,56.3,54.5,,,,,,,,17.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2061.1,Abston ES,Regular,42.5,2,YES,49.1,43.5,24.5,YES,YES,NO,NO,NO,46.9,38.2,52.6,,,,,,,,29,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2062.1,Jenkins ES,Regular,24.0,1,YES,41.9,32.8,15.8,YES,YES,NO,NO,NO,41.3,27.7,21.9,,,,,,,,33.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2064.1,Ellis ES,Regular,82.0,4,NO,65.3,57,20,YES,YES,NO,NO,NO,63.5,62.5,50,,,,,,,,16.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2065.1,Ortwein ES,Regular,43.0,2,YES,43.4,41.3,16.8,YES,YES,NO,NO,NO,45.3,41.5,37.5,,,,,,,,23.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2066.1,Barber ES,Regular,59.5,3,YES,46.7,41.6,13.5,YES,YES,NO,NO,NO,53.8,52.8,40.4,,,,,,,,28.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2067.1,Divich ES,Regular,58.5,3,NO,56.3,53.7,35.4,YES,YES,YES,YES,NO,41.9,61.8,42.1,,,,,,,,16.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2068.1,Jones Blackhurst ES,Regular,60.5,3,NO,60.6,51.2,23.3,YES,YES,NO,NO,NO,42.2,48.8,60,,,,,,,,16.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2069.1,Vassiliadis ES,Regular,98.0,5,NO,80.2,81.9,62.7,YES,YES,NO,NO,NO,77.2,81.6,76.6,,,,,,,,10.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2070.1,Berkley ES,Regular,65.5,3,YES,53.8,49.8,33.3,YES,YES,NO,NO,NO,59.4,60,27,,,,,,,,23.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2071.1,Stevens ES,Regular,53.5,3,YES,56.7,46.6,35.9,YES,YES,NO,NO,NO,54,49.7,24.3,,,,,,,,29.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2072.1,Mathis ES,Regular,52.0,3,YES,49.6,50.8,23.9,YES,YES,NO,NO,NO,40.1,48,54.4,,,,,,,,20.4,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2073.1,Heard ES,Regular,25.0,1,YES,40,32,8,YES,YES,NO,NO,NO,32.7,26,41.5,,,,,,,,14.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2074.1,Snyder D ES,Regular,32.0,2,YES,43.5,36.3,20.7,YES,YES,NO,NO,NO,44.3,30.1,37.9,,,,,,,,28.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2076.1,Duncan ES,Regular,15.0,1,YES,34.7,26.5,<5,YES,YES,NO,NO,NO,27.1,21.8,26,,,,,,,,37.6,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2077.1,Wallin ES,Regular,58.0,3,NO,63.1,63.6,26.7,YES,YES,NO,NO,NO,59.6,52.7,15.3,,,,,,,,20.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2078.1,Stuckey ES,Regular,67.5,4,NO,60,58.2,54.9,YES,YES,NO,NO,NO,61.5,54.4,41.6,,,,,,,,26.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2079.1,Keller  ES,Regular,33.5,2,YES,31.6,33.4,<5,YES,YES,NO,NO,NO,34.5,45.5,34.8,,,,,,,,32.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2080.1,Fine  ES,Regular,17.5,1,YES,35.8,35.9,13.4,YES,YES,NO,NO,NO,38,27.1,30,,,,,,,,26,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2081.1,Bozarth ES,Regular,53.5,3,NO,61.1,53.2,29.7,YES,YES,NO,NO,NO,54.7,41,20,,,,,,,,16.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2082.1,Triggs ES,Regular,41.5,2,NO,43.7,41,11.5,YES,YES,NO,NO,NO,43.9,41.5,47.8,,,,,,,,21.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2083.1,ORoarke ES,Regular,78.89,4,NO,67.1,59,49.3,YES,YES,NO,NO,NO,62.6,57.1,-,,,,,,,,21.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2084.1,Reedom ES,Regular,45.0,2,NO,48.8,36.6,26.5,YES,YES,NO,NO,NO,49.3,40.5,32,,,,,,,,22.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2085.1,Diaz ES,Regular,54.5,3,YES,42.1,35.1,12.1,YES,YES,NO,NO,NO,49.1,38.6,48,,,,,,,,18.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2086.1,Scott ES,Regular,23.5,1,YES,26.1,17.3,<5,YES,YES,NO,NO,NO,37.3,22.2,38.7,,,,,,,,38.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2087.1,Rainbow Dreams ELA ES,District Charter,0.0,Not Rated,YES,,,,,,NO,NO,NO,,,,,,,,,,,50,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2089.1,West Prep ES,Regular,60.0,3,YES,36.9,23.4,<5,YES,YES,NO,NO,NO,54.7,41.2,45.1,,,,,,,,15.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2090.1,Smalley ES,Regular,98.33,5,NO,78.2,73.5,25,YES,YES,NO,NO,NO,73,80.8,-,,,,,,,,9.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2091.1,Perkins C ES,Regular,12.0,1,YES,19.8,16,<5,YES,YES,NO,NO,NO,25.6,15.6,21.3,,,,,,,,39.3,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2092.1,Innovations ES,District Charter,27.0,2,YES,25.3,18.3,11.1,YES,YES,NO,NO,NO,36.1,32.7,28.9,,,,,,,,36.6,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2093.1,100 Academy SET ES,District Charter,27.5,2,YES,18.1,11.2,5.7,YES,YES,NO,NO,NO,30.8,24.2,25,,,,,,,,35,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2094.1,Dickens ES,Regular,25.0,1,YES,35.6,24.1,7,YES,YES,NO,NO,NO,44.1,29,21.5,,,,,,,,34.4,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2095.1,Bailey ES,Regular,35.0,2,YES,39.5,25.5,14.2,YES,YES,NO,NO,NO,47.4,33.7,23.2,,,,,,,,32.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2096.1,Roundy ES,Regular,21.0,1,YES,26.9,28,9.8,YES,YES,NO,NO,NO,31.9,29.6,36.8,,,,,,,,38.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2097.1,Forbuss ES,Regular,50.0,3,NO,54,48.7,33.3,YES,YES,NO,NO,NO,49.6,45.2,36.8,,,,,,,,24.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2098.1,Steele ES,Regular,66.0,3,YES,56.6,57.4,24.2,YES,YES,NO,NO,NO,57.2,62.7,26.2,,,,,,,,21.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2099.1,Schorr ES,Regular,30.0,2,YES,46.5,37.1,15,YES,YES,NO,NO,NO,44.3,37.7,29.6,,,,,,,,27.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2100.1,Ward Kitty ES,Regular,65.56,3,NO,58.5,51.2,36.5,YES,YES,NO,NO,NO,52,48.9,-,,,,,,,,16.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2101.1,Blue Diamond ES,Regular,77.33,4,YES,73.6,94.7,-,-,,NO,NO,NO,58.3,91.6,,,,,,,,,19.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2102.1,Goodsprings ES,Regular,,Not Rated,YES,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2103.1,Lundy ES,Regular,86.0,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,-,,,,,,,,18.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2104.1,Reid ES,Regular,25.0,Not Rated,YES,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2105.1,King Martin ES,Regular,20.0,1,YES,22.1,13.4,12.5,YES,YES,NO,NO,NO,27,26.3,16.6,,,,,,,,42.5,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2106.1,Deskin ES,Regular,21.0,1,YES,35.3,29.3,15.7,YES,YES,NO,NO,NO,33,29.6,18.1,,,,,,,,35.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2107.1,Kim ES,Regular,52.0,3,YES,43.9,31.4,14.8,YES,YES,NO,NO,NO,44.7,47.7,49,,,,,,,,28.6,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2108.1,Beatty J ES,Regular,53.5,3,YES,49.3,32.3,21,YES,YES,NO,NO,NO,63.1,40.5,33.3,,,,,,,,26.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2109.1,Christensen ES,Regular,31.5,2,YES,44.4,29.3,20.9,YES,YES,NO,NO,NO,48.4,36.2,42.8,,,,,,,,35.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2110.1,Parson ES,Regular,20.5,1,YES,19.4,14.4,6.1,YES,YES,NO,NO,NO,36,26.4,29.1,,,,,,,,33.6,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2111.1,Dooley ES,Regular,46.11,2,NO,51.7,44.8,5.6,YES,YES,NO,NO,NO,51,44.6,-,,,,,,,,25.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2112.1,Mendoza ES,Regular,37.0,2,YES,34.4,30.6,12.8,YES,YES,NO,NO,NO,40.5,42.8,34.8,,,,,,,,26.6,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2113.1,McMillan ES,Regular,21.0,1,YES,27.9,20.9,5.1,YES,YES,NO,NO,NO,37.8,28.3,30.4,,,,,,,,40.5,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2114.1,Perkins U ES,Regular,53.33,3,YES,39.6,42.8,30,YES,YES,NO,NO,NO,40,55,-,,,,,,,,32,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2115.1,Lynch ES,Regular,26.0,1,YES,16.4,11.1,<5,NO,NO,YES,NO,NO,25.8,30.9,23.7,,,,,,,,52.9,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2116.1,Woolley ES,Regular,20.0,1,YES,29.7,17.8,13.4,YES,YES,NO,NO,NO,30.2,26.3,22.7,,,,,,,,42.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2117.1,Lunt  ES,Regular,15.5,1,YES,21.7,14,7.9,YES,YES,NO,NO,NO,35.8,16.5,29.6,,,,,,,,40.4,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2118.1,Eisenberg ES,Regular,54.0,3,YES,40.5,36.3,22.5,YES,YES,NO,NO,NO,49.1,50,39.5,,,,,,,,25.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2119.1,Fong ES,Regular,27.5,2,YES,31.4,28.7,12.6,YES,YES,NO,NO,NO,33.5,36.5,29.1,,,,,,,,43.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2120.1,Gibson ES,Regular,59.5,3,NO,57.3,41.7,20.7,YES,YES,NO,NO,NO,63.3,50,33.3,,,,,,,,22.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2121.1,Wynn ES,Regular,14.0,1,YES,21.5,11.2,<5,YES,YES,NO,NO,NO,33.1,16.1,23.7,,,,,,,,36.2,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2122.1,Hill ES,Regular,64.5,3,YES,47,34.2,25.5,YES,YES,NO,NO,NO,54.6,52.8,59.5,,,,,,,,25.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2123.1,Jacobson ES,Regular,40.5,2,YES,49,46.2,14.2,YES,YES,NO,NO,NO,47.9,40.4,46.6,,,,,,,,36.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2124.1,Derfelt ES,Regular,60.0,3,YES,46.2,35.8,21.9,YES,YES,NO,NO,NO,52.7,47.9,42.5,,,,,,,,38.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2125.1,Cunningham ES,Regular,17.5,1,YES,27.8,22.2,<5,YES,YES,NO,NO,NO,25.9,24.2,29.2,,,,,,,,37.9,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2126.1,Cox D ES,Regular,61.0,3,YES,56.4,48.7,35,YES,YES,NO,NO,NO,57.7,50.3,41.1,,,,,,,,18.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2127.1,Treem ES,Regular,75.5,4,YES,52.7,45.7,28.5,YES,YES,NO,NO,NO,61.3,61.3,71.4,,,,,,,,39.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2128.1,Rundle ES,Regular,10.0,1,YES,27.5,23,5.8,YES,YES,NO,NO,NO,20.5,17.1,23.4,,,,,,,,38.7,YES,1.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2129.1,Herr ES,Regular,24.5,1,YES,28.3,26.8,6.4,YES,YES,NO,NO,NO,32.2,31.4,30,,,,,,,,31.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2130.1,Dailey ES,Regular,53.5,3,YES,39.8,27,9.3,YES,YES,NO,NO,NO,53.6,41.4,40,,,,,,,,18.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2131.1,Adams ES,Regular,11.0,1,YES,28.7,16,<5,YES,YES,NO,NO,NO,31.2,12.2,15,,,,,,,,31.4,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2132.1,May ES,Regular,50.0,3,YES,47.5,36.8,13.7,YES,YES,NO,NO,NO,46.2,40.8,59.2,,,,,,,,27.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2133.1,Kahre ES,Regular,24.5,1,YES,38.9,22.1,10.9,YES,YES,NO,NO,NO,44.9,24.5,36.8,,,,,,,,27.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2134.1,Katz ES,Regular,21.0,1,YES,28.5,24.1,5.3,YES,YES,NO,NO,NO,27.7,25.5,40.2,,,,,,,,30.8,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2135.1,Jydstrup ES,Regular,46.0,2,YES,42.1,38.3,10,YES,YES,YES,YES,NO,45.3,46.5,40.2,,,,,,,,28.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2136.1,King Martha ES,Regular,72.78,4,NO,59.8,53,29,YES,YES,NO,NO,NO,54,52.9,-,,,,,,,,16.5,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2137.1,Bartlett ES,Regular,45.0,2,NO,57.7,48.2,21.9,YES,YES,NO,NO,NO,47.9,39.7,42.8,,,,,,,,17.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2138.1,Bendorf ES,Regular,18.0,1,YES,34.8,27.7,11.2,YES,YES,NO,NO,NO,32.8,19.5,43,,,,,,,,31,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2139.1,Thorpe ES,Regular,38.5,2,YES,29,22.6,11.2,YES,YES,NO,NO,NO,43.1,39.5,38.7,,,,,,,,45.1,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2140.1,Antonello ES,Regular,25.5,1,YES,30.3,28.8,13.2,YES,YES,NO,NO,NO,37,29.8,42.3,,,,,,,,29.6,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2141.1,Lummis ES,Regular,86.0,5,NO,64.2,56.4,23.3,YES,YES,NO,NO,NO,63.9,57.8,57.1,,,,,,,,18.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2142.1,Wiener ES,Regular,25.0,1,YES,35.1,26.9,6.9,YES,YES,NO,NO,NO,35,23.6,63.8,,,,,,,,41.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2143.1,Fitzgerald ES,Regular,46.5,2,YES,35.7,37.1,<5,YES,YES,NO,NO,NO,46.6,61.3,27.1,,,,,,,,48,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2144.1,Lowman ES,Regular,11.0,1,YES,13.9,8.9,<5,YES,YES,NO,NO,NO,18.1,18.4,18.1,,,,,,,,50.8,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2145.1,Piggott ACAD ES,Regular,57.0,3,NO,53,50.7,40,YES,YES,NO,NO,NO,53,40.3,48.7,,,,,,,,12.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2146.1,Newton ES,Regular,56.11,3,NO,57.3,51.6,30.2,YES,YES,NO,NO,NO,53.5,51.6,-,,,,,,,,21.3,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2147.1,Bruner ES,Regular,21.0,1,YES,31.3,16.5,8,YES,YES,NO,NO,NO,38.3,16.4,40.3,,,,,,,,37.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2148.1,Bryan Richard ES,Regular,45.5,2,YES,51.1,40.6,31.5,YES,YES,NO,NO,NO,45.9,36.2,54.7,,,,,,,,21.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2149.1,Wilhelm ES,Regular,25.0,1,YES,30.1,23.6,11.6,YES,YES,NO,NO,NO,35.8,24.1,46.9,,,,,,,,37.3,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2150.1,Roberts ES,Regular,12.0,1,YES,25.2,16.3,8.6,YES,YES,NO,NO,NO,23.9,11,35.4,,,,,,,,24.4,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2151.1,Allen ES,Regular,36.0,2,NO,50.4,29.7,16.8,YES,YES,NO,NO,NO,44.7,25,54.5,,,,,,,,25.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2152.1,Wolfe ES,Regular,20.0,1,YES,32.2,33.1,5.4,YES,YES,NO,NO,NO,29.3,29,49,,,,,,,,35.7,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2153.1,Goldfarb ES,Regular,10.5,1,YES,28.9,28.3,9.7,YES,YES,NO,NO,NO,25.5,24.4,28.4,,,,,,,,32.4,YES,1.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2154.1,Vanderburg ES,Regular,75.0,4,NO,73.2,68.6,42.2,YES,YES,NO,NO,NO,61.4,58.4,52.6,,,,,,,,11.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2155.1,Cambeiro ES,Regular,16.0,1,YES,26.5,16.1,8.4,YES,YES,NO,NO,NO,29.1,16,41.2,,,,,,,,38.1,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2156.1,Bryan Roger ES,Regular,67.0,4,YES,48.7,45.9,22.2,YES,YES,NO,NO,NO,59.7,52.4,40,,,,,,,,31.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2157.1,Bonner ES,Regular,75.5,4,NO,64.9,64.2,25.5,YES,YES,NO,NO,NO,49.7,65.7,71,,,,,,,,12.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2158.1,Cartwright ES,Regular,45.0,2,YES,38.9,28.3,5.8,YES,YES,NO,NO,NO,47.8,35,36.1,,,,,,,,17.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2159.1,Bowler Joseph ES,Regular,12.0,1,YES,25,21.2,9.8,YES,YES,NO,NO,NO,24.4,10.8,20.8,,,,,,,,28.8,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2160.1,Rhodes ES,Regular,35.0,2,NO,59.9,44.1,16.1,YES,YES,NO,NO,NO,48.6,29.6,22.7,,,,,,,,24.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2161.1,Guy ES,Regular,12.5,1,YES,29.6,23.6,12.9,YES,YES,NO,NO,NO,30,20.3,32.4,,,,,,,,21.7,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2162.1,Morrow ES,Regular,75.0,4,NO,59.4,52.6,30.7,YES,YES,NO,NO,NO,64.1,57.6,57.1,,,,,,,,27.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2163.1,Bunker ES,Regular,20.5,1,YES,25.8,24.1,9.4,YES,YES,NO,NO,NO,27.8,27.9,38.8,,,,,,,,26.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2164.1,Elizondo ES,Regular,17.0,1,YES,20.9,17.8,7,YES,YES,NO,NO,NO,27.8,29.3,31.1,,,,,,,,29.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2165.1,Cortez ES,Regular,41.5,2,YES,22,17.7,7.3,YES,YES,NO,NO,NO,33.9,35.9,65.7,,,,,,,,36.6,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2166.1,Lamping ES,Regular,62.22,3,NO,66.3,55.6,23.7,YES,YES,NO,NO,NO,50.8,51.4,-,,,,,,,,14.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2167.1,Garehime ES,Regular,40.5,2,YES,44.7,32.7,19,YES,YES,NO,NO,NO,49.7,43.2,34.6,,,,,,,,24.8,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2168.1,Hayes ES,Regular,48.0,2,YES,49.7,46.4,40.8,YES,YES,NO,NO,NO,46.8,42.6,48.9,,,,,,,,17.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2169.1,Kesterson ES,Regular,56.0,3,YES,56.9,52.7,21.9,YES,YES,NO,NO,NO,55.3,47.4,36.8,,,,,,,,22.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2170.1,Neal ES,Regular,39.0,2,YES,40.5,34.8,16.3,YES,YES,NO,NO,NO,47.8,43.9,25,,,,,,,,24.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2171.1,Carl ES,Regular,41.5,2,YES,45.2,33.6,17.8,YES,YES,NO,NO,NO,44.4,32,50,,,,,,,,22.5,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2172.1,Darnell ES,Regular,31.5,2,YES,45.9,32.4,13.8,YES,YES,NO,NO,NO,42.4,25.1,43.7,,,,,,,,36.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2173.1,Heckethorn ES,Regular,54.0,3,NO,53.7,49.2,13.6,YES,YES,NO,NO,NO,59.2,43.9,31.2,,,,,,,,20.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2174.1,Rogers ES,Regular,52.0,3,YES,44.8,45.6,25.9,YES,YES,NO,NO,NO,47.5,53.1,26.1,,,,,,,,30,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2175.1,Snyder W ES,Regular,32.5,2,YES,19.1,15.1,<5,YES,YES,NO,NO,NO,37.2,34.3,15.3,,,,,,,,40.3,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2176.1,Twitchell ES,Regular,85.5,5,NO,62.8,65.3,31.5,YES,YES,NO,NO,NO,60.5,66.1,52.9,,,,,,,,9.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2177.1,Watson ES,Regular,14.0,1,YES,29,25.2,<5,YES,YES,NO,NO,NO,26.9,19.6,36.5,,,,,,,,27.7,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2178.1,Alamo ES,Regular,51.5,3,YES,55.1,46.7,25.7,YES,YES,NO,NO,NO,48.4,43.2,50.5,,,,,,,,21.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2179.1,Brookman ES,Regular,20.0,1,YES,41.2,25.4,12.9,YES,YES,NO,NO,NO,35.3,27.3,27.4,,,,,,,,24.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2180.1,Cozine ES,Regular,20.5,1,YES,36,32.3,7.4,YES,YES,NO,NO,NO,30.5,31.5,27.3,,,,,,,,32.5,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2181.1,Gehring ACAD ES,Regular,97.0,5,NO,81,74.1,52.9,YES,YES,NO,NO,NO,73.9,80,49,,,,,,,,5.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2182.1,Iverson ES,Regular,26.0,1,YES,36.3,31,7.2,YES,YES,NO,NO,NO,45.1,32,27.2,,,,,,,,27.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2183.1,Walker ES,Regular,67.0,4,NO,60.6,54,45.4,YES,YES,NO,NO,NO,56.7,51.6,40,,,,,,,,15.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2184.1,Conners ES,Regular,50.0,3,YES,55.4,44.1,21.5,YES,YES,NO,NO,NO,49.4,45.6,32,,,,,,,,36.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2185.1,Givens ES,Regular,75.5,4,NO,71.8,67.8,65.1,YES,YES,NO,NO,NO,67,53.4,57.7,,,,,,,,15.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2186.1,Goolsby ES,Regular,74.0,4,NO,71.6,68.4,39.3,YES,YES,NO,NO,NO,63.6,62.3,37.8,,,,,,,,12.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2187.1,Hummel ES,Regular,31.5,2,YES,38.3,28.6,13.6,YES,YES,NO,NO,NO,39.8,31.4,46.6,,,,,,,,38.5,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2188.1,Scherkenbach ES,Regular,49.44,2,NO,55.4,38.6,22,YES,YES,NO,NO,NO,52.2,36.5,-,,,,,,,,22.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2189.1,Simmons ES,Regular,47.0,2,YES,47.3,36.3,18.4,YES,YES,NO,NO,NO,44.1,47.1,31.2,,,,,,,,28.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2190.1,Tanaka ES,Regular,55.0,3,YES,46.6,47.8,25.6,YES,YES,NO,NO,NO,47.2,41.4,71.4,,,,,,,,35.4,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2191.1,Tartan ES,Regular,21.5,1,YES,23.7,14.7,5.7,YES,YES,NO,NO,NO,33.9,24,10.3,,,,,,,,40.1,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2192.1,Thiriot ES,Regular,41.5,2,YES,37.4,30.9,18,YES,YES,NO,NO,NO,40.4,45.1,44.3,,,,,,,,27.8,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2193.1,Batterman ES,Regular,63.5,3,NO,59.5,55.7,31.4,YES,YES,NO,NO,NO,56.8,44.4,63.8,,,,,,,,20.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2194.1,Ries ES,Regular,38.5,2,NO,49.5,43.3,18.4,YES,YES,NO,NO,NO,48.6,38.7,29.7,,,,,,,,21.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2195.1,Hickey ES,Regular,12.0,1,YES,24.8,15.9,7.5,YES,YES,NO,NO,NO,25.8,18.2,20.4,,,,,,,,42.6,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2196.1,Jeffers ES,Regular,20.5,1,YES,21.2,14.8,8.7,YES,YES,NO,NO,NO,31.4,27.7,25.8,,,,,,,,41,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2197.1,Goynes ES,Regular,61.5,3,NO,52.6,46.4,20.6,YES,YES,YES,YES,NO,51.2,46.7,61.5,,,,,,,,25.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2198.1,Thompson ES,Regular,62.78,3,YES,58.8,51.3,32.5,YES,YES,NO,NO,NO,59.5,45.9,-,,,,,,,,24.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2199.1,Hayden ES,Regular,15.5,1,YES,23,20.3,<5,YES,YES,NO,NO,NO,32,23.3,24.3,,,,,,,,35.6,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2200.1,Wright ES,Regular,51.0,3,YES,57.6,55.5,16.6,YES,YES,NO,NO,NO,41.8,46.2,45.8,,,,,,,,24.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2201.1,Ronzone ES,Regular,20.5,1,YES,28.7,22.5,6.7,YES,YES,NO,NO,NO,35,26.9,28.8,,,,,,,,29.8,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2202.1,Hoggard ES,Regular,65.5,3,YES,55.8,47,27.9,YES,YES,NO,NO,NO,55,47.8,50,,,,,,,,11.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2203.1,Ronnow ES,Regular,12.0,1,YES,19.8,15.9,6,YES,YES,NO,NO,NO,17.8,17.3,41.8,,,,,,,,33.8,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2204.1,Squires ES,Regular,17.5,1,YES,26.7,20.2,10.4,YES,YES,NO,NO,NO,30,23.7,34.5,,,,,,,,35.6,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2205.1,Crestwood ES,Regular,25.0,1,YES,25.2,20.3,6.9,YES,YES,NO,NO,NO,36.3,31.3,27.3,,,,,,,,30,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2206.1,Gilbert ES,Regular,34.0,2,YES,45.6,25.6,15,YES,YES,YES,YES,NO,49,33.7,31.7,,,,,,,,23.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2207.1,Hancock ES,Regular,10.0,1,YES,27.1,22.6,6,YES,YES,NO,NO,NO,26.1,19.5,30.5,,,,,,,,35.9,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2208.1,Griffith ES,Regular,13.5,1,YES,20.3,20.3,16.4,YES,YES,NO,NO,NO,21.7,23.7,28.6,,,,,,,,28.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2209.1,Herron ES,Regular,39.0,2,YES,42.3,38.8,12.2,YES,YES,NO,NO,NO,40.7,30.1,40.7,,,,,,,,10.1,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2210.1,Hewetson ES,Regular,15.0,1,YES,18.5,11.6,5.8,YES,YES,NO,NO,NO,20.3,21.8,31.9,,,,,,,,34.3,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2211.1,Booker ES,Regular,16.0,1,YES,19.7,12.5,5.5,YES,YES,NO,NO,NO,32.6,17.3,30.1,,,,,,,,36.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2212.1,Earl I ES,Regular,13.0,1,YES,16.6,16.2,5.7,YES,YES,NO,NO,NO,19.4,22.6,26.7,,,,,,,,32.8,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2213.1,Manch ES,Regular,8.0,1,YES,17.8,10.6,<5,YES,YES,YES,NO,NO,22.7,8.5,30.9,,,,,,,,61.8,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2214.1,Ullom ES,Regular,26.0,1,YES,33,21.3,21.5,YES,YES,NO,NO,NO,39.7,30.7,36.8,,,,,,,,34.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2215.1,Miller John F ES,Special Education,6.67,1,YES,<5,6.1,-,-,NO,NO,NO,NO,,,,,,,,,,,70.9,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2215.2,Miller John F MS,Special Education,7.5,1,YES,<5,<5,-,NO,NO,YES,NO,NO,,,,<5,,,,,,,69.2,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2215.3,Miller John F HS,Special Education,3.75,Not Rated,YES,-,-,-,-,-,NO,NO,NO,,,,,<5,-,-,,<5,<5,57.1,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2216.1,Park ES,Regular,14.5,1,YES,38.1,28.1,5.6,YES,YES,YES,YES,NO,34,24.2,45.3,,,,,,,,36.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2217.1,Mackey ES,Regular,55.0,3,YES,52.5,39.1,12.1,YES,YES,NO,NO,NO,48.1,37.9,66.6,,,,,,,,12.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2218.1,McWilliams ES,Regular,16.5,1,YES,26.2,16.3,7.8,YES,YES,NO,NO,NO,35.5,17.7,31.7,,,,,,,,29.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2219.1,Toland ES,Regular,43.0,2,NO,32.5,34.5,8.8,YES,YES,NO,NO,NO,34.9,40.9,44.4,,,,,,,,13.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2220.1,Dearing ES,Regular,17.0,1,YES,26.9,17,<5,YES,YES,NO,NO,NO,34.1,18.7,30.2,,,,,,,,45.3,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2221.1,Rowe ES,Regular,62.5,3,YES,51.2,40,18.7,YES,YES,NO,NO,NO,53.2,53.2,40.6,,,,,,,,33.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2222.1,Lincoln ES,Regular,15.0,1,YES,20.8,16.4,6.2,YES,YES,NO,NO,NO,29.2,21.8,27.5,,,,,,,,34.8,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2223.1,Craig ES,Regular,12.0,1,YES,15.9,10.3,5,YES,YES,NO,NO,NO,22.4,13.6,17.7,,,,,,,,44.1,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2224.1,Williams W ES,Regular,12.0,1,YES,12.6,6.3,<5,YES,YES,NO,NO,NO,26.7,11.4,25,,,,,,,,57,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2225.1,Cahlan ES,Regular,22.5,1,YES,32.8,27.6,6.1,YES,YES,NO,NO,NO,29.4,31.4,36.2,,,,,,,,36.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2226.1,Kelly ES,Regular,10.0,1,YES,10.7,8.2,<5,YES,YES,NO,NO,NO,14.8,10.8,30,,,,,,,,45.9,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2228.1,Mountain View ES,Regular,21.0,1,YES,23.3,13.3,<5,YES,YES,NO,NO,NO,38.2,12.6,38.3,,,,,,,,31.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2230.1,Taylor G ES,Regular,65.5,3,NO,59.1,57.5,38.4,YES,YES,NO,NO,NO,54.7,58.7,83.3,,,,,,,,18.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2231.1,Adcock ES,Regular,26.5,1,YES,36.8,34.5,15.2,YES,YES,NO,NO,NO,28.7,31.6,45.2,,,,,,,,28.6,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2232.1,Paradise ES,Regular,31.0,2,YES,29.6,21.2,<5,YES,YES,YES,NO,NO,37.2,31.8,33.3,,,,,,,,39.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2233.1,Culley ES,Regular,27.5,2,YES,37.9,23.7,9.1,YES,YES,NO,NO,NO,45.3,23.4,33.9,,,,,,,,23.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2234.1,McCall ES,Regular,41.0,2,YES,35.9,22.3,29,YES,YES,NO,NO,NO,54.2,31.4,31.2,,,,,,,,26.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2235.1,Red Rock ES,Regular,31.5,2,YES,23.1,18.5,<5,YES,YES,NO,NO,NO,34.9,31.7,45.3,,,,,,,,32.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2236.1,Bell ES,Regular,34.0,2,YES,28.7,18.9,10.7,YES,YES,NO,NO,NO,46.1,31.4,26.9,,,,,,,,39.8,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2237.1,Lake ES,Regular,15.0,1,YES,28.2,18.6,8.3,YES,YES,NO,NO,NO,28.9,22,20.2,,,,,,,,35.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2238.1,Warren ES,Regular,31.5,2,YES,25.1,20.6,7.2,YES,YES,NO,NO,NO,34.7,36.2,35.1,,,,,,,,34.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2239.1,Thomas ES,Regular,20.0,1,YES,19.9,13,5.8,YES,YES,NO,NO,NO,34.4,18.7,41.8,,,,,,,,43.8,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2241.1,Sunrise Acres ES,Regular,7.0,1,YES,21.4,16.1,26.6,YES,YES,YES,YES,NO,22.1,19.8,19.4,,,,,,,,42.7,YES,1.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2242.1,Williams T ES,Regular,18.0,1,YES,26.2,15.4,6.3,YES,YES,NO,NO,NO,33.1,20.6,32,,,,,,,,26.9,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2243.1,Twin Lakes ES,Regular,23.0,1,YES,31.6,17.5,8.3,YES,YES,NO,NO,NO,43.9,23.2,27.2,,,,,,,,23.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2244.1,Pittman ES,Regular,40.5,2,YES,26.2,22.7,12.5,YES,YES,NO,NO,NO,42.3,42.6,41,,,,,,,,35.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2245.1,Vegas Verdes ES,Regular,34.5,2,YES,26.2,26.2,10.7,YES,YES,NO,NO,NO,28.7,44.7,21.6,,,,,,,,24.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2246.1,Bracken ES,Regular,82.5,4,YES,61.4,44.7,38.8,YES,YES,NO,NO,NO,64.6,56.2,36.8,,,,,,,,13.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2247.1,Wasden ES,Regular,26.0,1,YES,29.2,23.9,18.3,YES,YES,NO,NO,NO,43.7,26.1,29.6,,,,,,,,35.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2248.1,Beckley ES,Regular,31.0,2,YES,27.5,20.7,8.3,YES,YES,NO,NO,NO,34.8,38.8,35.7,,,,,,,,34.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2249.1,McCaw ES,Regular,85.5,5,YES,71.2,66.4,38.9,YES,YES,NO,NO,NO,62.7,57.7,71.8,,,,,,,,8.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2250.1,Mitchell ES,Regular,0.0,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,24.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2251.1,Sewell ES,Regular,19.5,1,YES,29.6,19.6,12.6,YES,YES,NO,NO,NO,33.1,23.4,26.4,,,,,,,,36.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2252.1,Indian Springs ES,Regular,19.44,1,YES,41.6,31.6,5.2,YES,YES,NO,NO,NO,28.5,23.5,-,,,,,,,,22.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2253.1,Priest ES,Regular,19.5,1,YES,40.2,27.8,8.7,YES,YES,NO,NO,NO,41,26.4,32.4,,,,,,,,37.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2254.1,Taylor R ES,Regular,11.0,1,YES,14.8,14.2,<5,YES,YES,YES,NO,NO,20.7,17.6,22.2,,,,,,,,45.1,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2255.1,Virgin Valley ES,Regular,52.0,3,YES,51.1,38.1,25.6,YES,YES,NO,NO,NO,60.9,35.9,37.7,,,,,,,,15.8,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2256.1,Whitney ES,Regular,31.5,2,YES,31.9,21.3,6,YES,YES,NO,NO,NO,43.5,28.5,39.6,,,,,,,,36.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2257.1,Ferron ES,Regular,34.0,2,YES,34.5,30.1,9.5,YES,YES,NO,NO,NO,37,36.4,41.1,,,,,,,,24,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2258.1,Gene Ward ES,Regular,27.5,2,YES,35.8,16.4,<5,YES,YES,NO,NO,NO,42.2,22.3,43.7,,,,,,,,32.4,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2259.1,Wengert ES,Regular,30.5,2,YES,32.7,25.5,17.3,YES,YES,NO,NO,NO,40.1,27.6,39.3,,,,,,,,26.9,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2260.1,Tate ES,Regular,40.5,2,YES,33.9,33.9,7.4,YES,YES,NO,NO,NO,37.2,41.8,44.9,,,,,,,,42.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2261.1,Harmon ES,Regular,22.5,1,YES,28.3,21.2,<5,YES,YES,YES,YES,NO,34.6,28.2,44.4,,,,,,,,28.1,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2262.1,Harris ES,Regular,24.5,1,YES,35.4,16.5,<5,YES,YES,NO,NO,NO,44.3,24.3,18.8,,,,,,,,39.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2263.1,Diskin ES,Regular,55.5,3,YES,36.1,30.6,16.8,YES,YES,NO,NO,NO,46.1,60.1,48,,,,,,,,26.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2264.1,Smith Helen ES,Regular,41.0,2,YES,41.3,35.7,15.5,YES,YES,NO,NO,NO,41.6,43,27.1,,,,,,,,17.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2265.1,Tomiyasu ES,Regular,33.5,2,YES,45.3,28,10.5,YES,YES,NO,NO,NO,48.1,27.6,38.3,,,,,,,,31.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2266.1,Dondero ES,Regular,28.5,2,YES,22.6,27.8,<5,YES,YES,NO,NO,NO,31.7,44.3,18.9,,,,,,,,28.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2267.1,Edwards ES,Regular,28.5,2,YES,21.9,21.9,<5,YES,YES,NO,NO,NO,20.6,35.6,33.9,,,,,,,,37.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2268.1,French ES,Regular,35.0,2,YES,43.4,26.6,6,YES,YES,NO,NO,NO,45.2,34.7,36.7,,,,,,,,21.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2269.1,Decker ES,Regular,56.5,3,YES,35.2,36.6,10.9,YES,YES,NO,NO,NO,53.1,57.6,34.8,,,,,,,,29.6,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2270.1,Long ES,Regular,13.0,1,YES,31,17.2,<5,YES,YES,NO,NO,NO,29.1,12.6,29.7,,,,,,,,38.5,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2271.1,Bilbray ES,Regular,79.5,4,NO,62.5,57.6,29.1,YES,YES,NO,NO,NO,65.3,68.9,35.7,,,,,,,,19.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2272.1,Frias ES,Regular,84.5,5,NO,67.2,54.8,18.8,YES,YES,NO,NO,NO,65.7,58.7,50,,,,,,,,19.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2273.1,Hollingsworth ES,Regular,44.0,2,YES,30.1,21.4,<5,YES,YES,NO,NO,NO,47.4,34.4,42.9,,,,,,,,36.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2274.1,Miller Sandy ES,Regular,52.5,3,YES,43.3,45.1,13.7,YES,YES,NO,NO,NO,46.7,48.6,43.7,,,,,,,,14.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2275.1,Gragson ES,Regular,22.5,1,YES,31.1,15.4,6.7,YES,YES,NO,NO,NO,39.8,27.7,38.4,,,,,,,,45,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2276.1,Galloway ES,Regular,17.5,1,YES,40.1,36.1,13.8,YES,YES,NO,NO,NO,34.2,28,22.2,,,,,,,,29,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2277.1,Mack ES,Regular,59.0,3,YES,47.7,52.2,27.9,YES,YES,NO,NO,NO,47.8,56.4,50,,,,,,,,20.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2278.1,Gray ES,Regular,35.0,2,YES,34.6,27.8,10.2,YES,YES,NO,NO,NO,41.6,38.6,36.7,,,,,,,,23,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2279.1,Bowler Grant ES,Regular,66.11,3,NO,49.6,39.2,22.4,YES,YES,YES,NO,NO,58.2,55,-,,,,,,,,33.9,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2280.1,Bass ES,Regular,50.5,3,YES,50.5,46.7,21.5,YES,YES,NO,NO,NO,48,45.3,40,,,,,,,,22.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2281.1,Martinez ES,Regular,28.0,2,YES,21.4,13.8,10.9,YES,YES,NO,NO,NO,35,28.7,50,,,,,,,,35.1,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2282.1,Moore ES,Regular,30.0,2,YES,26.9,19.8,8.2,YES,YES,NO,NO,NO,36.5,27.5,50.3,,,,,,,,34.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2283.1,Ober ES,Regular,49.0,2,YES,48,34.7,20.8,YES,YES,NO,NO,NO,60.2,38.6,27.2,,,,,,,,31.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2284.1,Smith Hal ES,Regular,15.0,1,YES,15,9.2,<5,YES,YES,NO,NO,NO,29.8,13.7,13.2,,,,,,,,43.9,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2285.1,Tarr ES,Regular,65.5,3,NO,61,49.7,25.2,YES,YES,NO,NO,NO,55.8,48.9,45,,,,,,,,17.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2286.1,Staton ES,Regular,53.0,3,NO,63.3,65.3,30.9,YES,YES,NO,NO,NO,55.8,49.7,35.7,,,,,,,,16.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2287.1,Wolff ES,Regular,90.5,5,NO,76.6,75.7,44.2,YES,YES,NO,NO,NO,70.8,74.1,75,,,,,,,,17.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2289.1,Petersen ES,Regular,13.0,1,YES,20.3,11.6,15.3,YES,YES,NO,NO,NO,28.4,19.7,18.8,,,,,,,,48.7,NO,,NO,,YES,1.0,64827,Churchill,2023
+2023,2,Clark,2290.1,Tobler ES,Regular,54.5,3,YES,53.2,34.5,16.8,YES,YES,NO,NO,NO,47.8,35.5,57.5,,,,,,,,22.5,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2291.1,Sandy Valley ES,Regular,45.5,2,YES,27.5,22.4,13,YES,YES,NO,NO,NO,53.8,38.4,21.4,,,,,,,,29.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2292.1,Bennett William ES,Regular,41.11,2,YES,21,19.5,11.4,YES,YES,NO,NO,NO,39.1,37.8,-,,,,,,,,34.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2293.1,Cox C ES,Regular,13.0,1,YES,19.2,11.8,5.6,YES,YES,NO,NO,NO,25.6,11.5,16.8,,,,,,,,37.3,YES,2.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2294.1,Stanford ES,Regular,46.0,2,YES,37.8,31.7,9.7,YES,YES,NO,NO,NO,42.5,45.3,33.7,,,,,,,,10.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2295.1,Reed ES,Regular,15.0,1,YES,27.5,18.9,9.5,YES,YES,NO,NO,NO,29.5,18.2,38.2,,,,,,,,43.2,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2296.1,Earl M ES,Regular,29.0,2,YES,33.4,20.9,16.4,YES,YES,NO,NO,NO,44.4,34.4,27.6,,,,,,,,27.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2297.1,Hinman ES,Regular,10.0,1,YES,25.6,14.5,6.5,YES,YES,NO,NO,NO,19.2,8.5,28.5,,,,,,,,25.2,YES,1.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2298.1,McDoniel ES,Regular,86.0,5,YES,59,54.3,22.2,YES,YES,NO,NO,NO,62.7,65.6,63.6,,,,,,,,15.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2299.1,Odyssey ES,District Charter,59.0,3,YES,51.8,30.6,24.6,YES,YES,NO,NO,NO,51.7,41,80,,,,,,,,<5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2300.1,Detwiler ES,Regular,19.5,1,YES,27.4,18.1,5.4,YES,YES,NO,NO,NO,35,20.7,25.6,,,,,,,,35.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2301.2,Von Tobel MS,Regular,25.0,1,YES,23.7,10.4,12.6,YES,YES,NO,NO,NO,27.3,11.9,24.4,82.9,,,,,,,43.4,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2302.2,Garside MS,Regular,16.0,1,YES,20.9,6.6,12.1,YES,YES,NO,NO,NO,22.3,6.5,7.7,77.6,,,,,,,32.6,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2303.2,Hyde Park MS,Regular,66.5,3,YES,57,47.3,51.3,YES,YES,NO,NO,NO,57,48.5,12.6,81.5,,,,,,,15.3,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2304.2,Cashman MS,Regular,20.5,1,YES,27.9,14.4,25.5,NO,NO,YES,NO,NO,26,15.8,24.1,81.7,,,,,,,38.6,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2305.2,Smith MS,Regular,13.0,1,YES,19.7,6.5,20.6,YES,YES,YES,YES,NO,19.8,8.6,10.6,78.5,,,,,,,42.5,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2306.2,Brinley MS,Regular,30.0,2,YES,24.6,8.9,21.4,YES,YES,NO,NO,NO,25.6,12.5,39.4,79.3,,,,,,,40.1,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2307.2,Bridger MS,Regular,26.0,1,YES,23.8,16.2,29.9,YES,YES,NO,NO,NO,23.5,18.5,31.1,85.1,,,,,,,40,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2308.2,Fremont MS,Regular,26.5,1,YES,27.1,13.9,19,YES,YES,NO,NO,NO,24.6,17.3,19.6,>95,,,,,,,33,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2309.2,Knudson MS,Regular,19.5,1,YES,37,14,19.4,YES,YES,NO,NO,NO,36.1,14.6,13.3,86.3,,,,,,,34.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2310.2,Gibson MS,Regular,32.0,2,YES,30.9,12.5,27.2,YES,YES,NO,NO,NO,32.3,17.4,26.8,53.2,,,,,,,30.6,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2311.2,Martin MS,Regular,19.0,1,YES,26.6,12.1,27.9,YES,YES,NO,NO,NO,27.8,13.2,26.3,55.7,,,,,,,41.5,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2312.2,Orr MS,Regular,29.0,2,YES,23.9,8.1,13,YES,YES,YES,YES,NO,28,11.4,41.2,84.8,,,,,,,46.4,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2313.2,Burkholder MS,Regular,29.0,2,YES,31.7,18.9,36.7,YES,YES,NO,NO,NO,33.2,23.3,6.2,85.3,,,,,,,41.8,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2314.2,Woodbury MS,Regular,21.0,1,YES,23.8,7.4,19.3,YES,YES,NO,NO,NO,25.2,8.6,27,89.7,,,,,,,39.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2315.2,Robison MS,Regular,27.0,1,YES,23.9,7.2,17.5,YES,YES,YES,NO,NO,29.4,7.8,32.5,83.7,,,,,,,42.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2316.2,Cannon JHS MS,Regular,34.5,2,YES,27.4,12.9,27.8,YES,YES,NO,NO,NO,31.1,17.8,30,86.8,,,,,,,34.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2317.2,Guinn MS,Regular,41.0,2,YES,42,28.6,31.8,YES,YES,NO,NO,NO,41.6,30.5,15.3,78.6,,,,,,,24,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2318.2,Garrett MS,Regular,59.44,3,NO,51.3,41.9,65.7,YES,YES,NO,NO,NO,47.8,43.9,,91.3,,,,,,,26.8,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2319.2,Brown JHS MS,Regular,33.5,2,YES,40.6,21.6,31.9,YES,YES,NO,NO,NO,39.3,21.6,20,>95,,,,,,,34.9,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2320.2,Sandy Valley JSHS MS,Regular,23.89,1,YES,24.2,17.1,26.9,YES,YES,NO,NO,NO,23.8,22.7,-,89.2,,,,,,,34.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2320.3,Sandy Valley JSHS HS,Regular,64.5,3,YES,41.1,14.7,22.2,YES,YES,NO,NO,NO,,,5.2,,90.4,83.3,38.8,41.1,>95,>95,27.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2321.2,Laughlin JSHS MS,Regular,40.56,2,YES,38.8,16.6,27.2,YES,YES,NO,NO,NO,39.7,17.8,-,78.6,,,,,,,35.5,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2321.3,Laughlin JSHS HS,Regular,39.0,2,YES,35.4,8.3,10,YES,YES,NO,NO,NO,,,<5,,88.8,68.8,15.5,25.6,81.2,76.7,44.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2322.2,OCallaghan i3 ACAD MS,Regular,86.5,5,YES,58.4,41.8,42.1,YES,YES,NO,NO,NO,59.5,47.3,63.2,>95,,,,,,,20.9,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2323.2,Johnson JHS MS,Regular,51.5,3,YES,49.7,30.3,34.5,YES,YES,NO,NO,NO,49.1,32.3,31.8,81.4,,,,,,,28.4,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2324.2,Greenspun JHS MS,Regular,54.0,3,NO,51.1,31.6,40.8,YES,YES,NO,NO,NO,50.8,34.5,27.9,86.9,,,,,,,23.8,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2325.2,Swainston MS,Regular,20.0,1,YES,22.5,7.8,15.7,YES,YES,YES,NO,NO,22.1,10.6,25.3,73.4,,,,,,,39.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2326.2,White MS,Regular,80.0,5,YES,66.8,32.5,54.2,YES,YES,NO,NO,NO,64.6,33.8,49.2,>95,,,,,,,21.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2327.2,Becker MS,Regular,51.5,3,YES,45.6,26.6,37.6,YES,YES,NO,NO,NO,47.3,28.2,28.5,93,,,,,,,22.2,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2328.2,Sawyer MS,Regular,37.5,2,YES,37,17.1,25.9,YES,YES,NO,NO,NO,37.2,22.5,18.7,91.1,,,,,,,29.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2329.2,Lyon MS,Regular,62.22,3,NO,50.3,57.2,41.4,NO,NO,YES,YES,NO,50.1,59.6,-,94.4,,,,,,,36.6,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2330.2,West Prep JSHS MS,Regular,17.0,1,YES,20.8,9.7,10.9,YES,YES,NO,NO,NO,22,12.5,11.2,76.3,,,,,,,42,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2330.3,West Prep JSHS HS,Regular,73.5,4,YES,34.1,18.2,15,YES,YES,NO,NO,NO,,,14.7,,100,88.7,47.8,41,93.9,>95,16.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2331.2,Lied STEM ACAD MS,Regular,86.5,5,NO,60.9,50.6,54.2,YES,YES,NO,NO,NO,57.7,51.8,46.8,>95,,,,,,,15.3,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2332.2,Keller MS,Regular,19.0,1,YES,20.8,7.3,21.7,YES,YES,NO,NO,NO,18.6,10.7,14.1,90.1,,,,,,,41.5,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2333.2,Molasky JHS MS,Regular,22.0,1,YES,24.9,9.5,12.3,YES,YES,NO,NO,NO,23.7,10.1,23.3,77.8,,,,,,,38.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2334.2,Silvestri JHS MS,Regular,18.5,1,YES,31.8,16.1,28.2,YES,YES,NO,NO,NO,31.9,17.7,12.6,87.9,,,,,,,34.9,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2335.2,Cortney JHS MS,Regular,17.0,1,YES,21.6,7.5,17.6,NO,NO,YES,NO,NO,21.5,8.6,14.8,78,,,,,,,44.9,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2336.2,Indian Springs MS,Regular,73.33,4,YES,56.5,18.4,69.2,YES,YES,NO,NO,NO,62.8,18.5,-,>95,,,,,,,11.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2337.2,Lawrence JHS MS,Regular,43.5,2,YES,40.4,19.3,26.9,YES,YES,YES,YES,NO,42.5,24.8,22.8,89,,,,,,,33,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2338.2,Miller MS,Regular,69.5,3,NO,66,53.6,51.8,YES,YES,YES,YES,NO,64.5,53.3,15.3,>95,,,,,,,19.5,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2339.2,Rogich MS,Regular,83.0,5,NO,68.7,55.6,52.5,YES,YES,NO,NO,NO,65.9,54.2,40.9,92.3,,,,,,,20.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2341.2,Leavitt MS,Regular,57.5,3,YES,44.1,28.9,37.3,YES,YES,NO,NO,NO,43.4,31.6,40,86.6,,,,,,,14.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2342.2,Cram MS,Regular,40.5,2,YES,35.7,21.5,18.3,YES,YES,NO,NO,NO,35.3,24.9,17.8,89.7,,,,,,,18.3,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2343.2,Monaco MS,Regular,36.0,2,YES,23.8,12.8,20.6,YES,YES,NO,NO,NO,28.2,18.9,27.1,73.4,,,,,,,42.8,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2344.2,Schofield MS,Regular,17.5,1,YES,27.1,15.2,22.3,YES,YES,NO,NO,NO,26.9,16.8,20.5,80,,,,,,,34.4,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2345.2,Sedway MS,Regular,35.5,2,YES,21,8.6,11.1,NO,NO,YES,YES,NO,27.5,15.4,45.4,89.8,,,,,,,42.9,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2346.2,Harney MS,Regular,15.0,1,YES,23.1,7.5,11.5,YES,YES,YES,YES,NO,24.6,8,12,78.7,,,,,,,40.7,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2347.2,Fertitta MS,Regular,64.5,3,NO,48.8,39.8,40.6,YES,YES,NO,NO,NO,46.5,42.8,30.6,90,,,,,,,14.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2348.2,Cadwallader MS,Regular,56.5,3,NO,46.2,38.5,46.7,YES,YES,YES,YES,NO,41.8,40.2,46.1,90.5,,,,,,,20.3,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2349.2,Canarelli MS,Regular,64.0,3,YES,47.9,38.9,44.6,YES,YES,NO,NO,NO,47.6,42.7,35.1,93.8,,,,,,,23.9,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2350.2,Hughes MS,Regular,71.5,4,YES,45.1,30.5,26.5,YES,YES,NO,NO,NO,48.3,37.5,49.2,91.1,,,,,,,21.5,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2352.2,Findlay MS,Regular,14.0,1,YES,20.2,6.6,11.4,YES,YES,NO,NO,NO,20.7,7.6,<5,64.9,,,,,,,43.3,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2353.2,Mannion MS,Regular,76.5,4,NO,61.4,42.5,44.3,YES,YES,YES,NO,NO,60.6,43.4,57.1,94.9,,,,,,,22.4,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2354.2,Saville MS,Regular,37.5,2,NO,38.9,27.8,31.4,YES,YES,NO,NO,NO,37.7,30.6,19.5,88.5,,,,,,,30.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2355.2,Webb MS,Regular,69.5,3,NO,55.9,47.9,48.7,YES,YES,NO,NO,NO,55.6,50.4,44.1,94.5,,,,,,,21.6,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2356.2,Mack MS,Regular,16.0,1,YES,21.9,9.1,13,YES,YES,NO,NO,NO,23,11.3,10.5,87.3,,,,,,,50.6,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2357.2,Bailey MS,Regular,20.0,1,YES,20.3,7.4,19.3,YES,YES,NO,NO,NO,22.3,14,13.2,61.8,,,,,,,52,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2358.2,Odyssey MS,District Charter,83.5,5,NO,54.9,35.2,49.4,YES,YES,NO,NO,NO,55.7,41.4,25,85.5,,,,,,,<5,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2359.2,Johnston MS,Regular,22.0,1,YES,22.2,10.4,18.8,YES,YES,YES,YES,NO,21.9,12.2,39,81.7,,,,,,,49.7,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2360.2,Tarkanian MS,Regular,77.0,4,NO,54.9,40,41.2,YES,YES,NO,NO,NO,56.9,43.9,33.3,94.4,,,,,,,22.1,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2361.2,Escobedo MS,Regular,26.5,1,YES,36,15.9,33.8,YES,YES,YES,YES,NO,32.6,14.8,39.2,88.8,,,,,,,30.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2362.2,Faiss MS,Regular,48.5,2,YES,41.7,32.6,31.8,YES,YES,NO,NO,NO,40.3,36.4,28.3,83,,,,,,,31.4,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2363.2,Innovations SEC MS,District Charter,39.0,2,YES,25.5,9.5,15,YES,YES,NO,NO,NO,26.9,14,40,81.9,,,,,,,45.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2363.3,Innovations SEC HS,District Charter,56.0,3,YES,28,<5,8.6,YES,YES,NO,NO,NO,,,12.5,,100,>95,<4.5,66.6,85.7,>95,42.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2364.2,100 Academy SET MS,District Charter,39.44,2,YES,24.6,7.7,21,YES,YES,NO,NO,NO,32.2,12.1,-,>95,,,,,,,41.4,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2368.2,Gunderson MS,Regular,74.5,4,NO,55.2,45.3,38.7,YES,YES,YES,NO,NO,53.6,50.9,46.2,87.9,,,,,,,22.1,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2369.2,Mackey MS,Regular,59.0,3,YES,47.4,21.8,34.1,YES,YES,NO,NO,NO,48.3,26.7,56.2,>95,,,,,,,17.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2401.3,Clark HS,Regular,57.0,3,YES,43.7,25.4,27.8,NO,NO,YES,NO,NO,,,<5,,87.8,69.6,44.6,35.8,86,84.4,41,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2402.3,Las Vegas HS,Regular,65.0,3,YES,27,7.9,8,NO,NO,NO,NO,NO,,,11.5,,88.6,80.8,54.3,26.1,93.4,88.7,52.4,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2403.3,Rancho HS,Regular,61.0,3,YES,29.9,14.3,13.3,NO,NO,YES,YES,NO,,,5.7,,91.2,84,69.4,44.5,93.9,93.9,39.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2404.3,Valley HS,Regular,46.0,2,YES,21.6,7.3,7.2,NO,NO,NO,NO,NO,,,<5,,79.3,70.7,43.3,25.8,84.2,84.3,55.6,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2405.3,Western HS,Regular,37.5,2,YES,13.9,<5,11.5,NO,NO,YES,NO,NO,,,<5,,80.1,67.9,37.3,26.7,81,81.8,51.9,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2406.3,Basic ACAD HS,Regular,57.0,3,YES,37.4,9.7,15.3,YES,YES,YES,NO,NO,,,6,,88.9,64.4,34.1,32.4,91.2,88.3,42.9,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2408.3,Morris Sunset HS,Alternative,10.63,1,YES,33.3,<5,-,-,NO,NO,NO,NO,,,-,,-,44.6,7.1,<5,52,77.2,39.6,YES,1.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2409.3,Chaparral HS,Regular,29.5,2,YES,12.2,<5,6.4,NO,NO,NO,NO,NO,,,7.3,,86,58.9,26.1,24.2,74.6,85,53.2,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2410.3,Eldorado HS,Regular,46.5,2,YES,25.6,7.4,12.3,YES,YES,NO,NO,NO,,,<5,,82,67.3,28,24.5,87.7,85.1,52,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2411.3,Bonanza HS,Regular,55.0,3,YES,27.7,7.7,8.6,NO,NO,YES,NO,NO,,,6.5,,76.8,68.2,41.6,25.2,90.6,85.8,43.2,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2412.3,SECTA HS,Regular,85.5,5,NO,73,32,27,YES,YES,NO,NO,NO,,,12.3,,98.9,>95,>95,57.6,>95,>95,17.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2414.3,Cimarron Mem HS,Regular,61.0,3,YES,22.5,6.7,13.3,YES,YES,NO,NO,NO,,,6.5,,96,72.8,45.3,35.8,90.6,93.7,43.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2415.3,Cheyenne HS,Regular,32.5,2,YES,17.8,<5,10,NO,NO,YES,NO,NO,,,5.2,,82,72.8,32.6,9.6,75.4,81.5,54,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2416.3,Green Valley HS,Regular,65.5,3,NO,56.2,19.9,18.5,YES,YES,YES,NO,NO,,,<5,,93.1,66.5,41,36.8,92.5,90.7,30.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2417.3,Durango HS,Regular,52.0,3,YES,32.2,14,21.2,YES,YES,YES,NO,NO,,,<5,,76.5,77.1,34.6,41.4,86,84.6,40.2,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2418.3,Las Vegas ACAD HS,Regular,95.0,5,NO,92,43.3,47.7,YES,YES,NO,NO,NO,,,-,,98.9,81.4,58,74.8,>95,>95,15.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2420.3,Adv Tech ACAD HS,Regular,97.5,5,NO,91.3,71.8,57.1,YES,YES,NO,NO,NO,,,33.3,,99.3,>95,>95,80.2,>95,>95,12.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2421.3,Silverado HS,Regular,67.0,3,NO,46.8,17.8,18.7,YES,YES,YES,NO,NO,,,16.5,,89.5,65.1,37.6,42.5,91.5,91.3,35.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2422.3,CSN East HS,Regular,94.38,5,NO,90.7,36.9,,YES,YES,NO,NO,NO,,,,,,>95,>95,71.9,>95,>95,13.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2423.3,CSN West HS,Regular,97.5,5,NO,93.5,62.3,,YES,YES,NO,NO,NO,,,,,,>95,>95,86.1,>95,>95,13.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2424.3,Mojave HS,Regular,38.0,2,YES,23.8,<5,9.8,NO,NO,YES,NO,NO,,,<5,,75.6,64.2,30.5,23.8,82.4,85.6,55.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2425.3,Palo Verde HS,Regular,87.5,5,NO,64.9,35.2,31.9,YES,YES,YES,NO,NO,,,22.5,,94.6,86.3,70.6,50.1,>95,94.3,32,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2426.3,CSN South HS,Regular,98.13,5,NO,>95,67.7,,YES,YES,NO,NO,NO,,,,,,>95,>95,89.5,>95,>95,10,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2427.3,Shadow Ridge HS,Regular,71.0,4,NO,61,28.3,23,NO,NO,YES,YES,NO,,,<5,,96.6,75.5,52.7,45.9,93.9,92,30.7,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2428.3,Liberty HS,Regular,67.0,3,NO,51.9,18.1,21.3,YES,YES,YES,NO,NO,,,7.8,,94.9,69.6,34.5,35.7,92,93.6,37.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2429.3,Canyon Springs HS,Regular,53.5,3,YES,34.6,6.3,10.6,YES,YES,NO,NO,NO,,,10.8,,91.8,72.1,45.1,19.3,82.7,86.8,42.2,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2430.3,Del Sol ACAD HS,Regular,55.5,3,YES,30.5,6.6,17.3,YES,YES,NO,NO,NO,,,<5,,94.3,65.6,40,35.4,93.3,88.7,41.7,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2431.3,Spring Valley HS,Regular,80.0,4,YES,62.5,25,26.9,YES,YES,NO,NO,NO,,,16.5,,90,76.8,48,44.4,93.7,91.6,32.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2432.3,VTCTA HS,Regular,87.0,5,NO,67.5,28.4,32.2,YES,YES,NO,NO,NO,,,32.3,,99.5,>95,>95,72.5,>95,>95,22,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2433.3,SWCTA HS,Regular,92.5,5,NO,79.4,39.5,43.4,YES,YES,NO,NO,NO,,,21.8,,99.5,>95,>95,75.6,>95,>95,17,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2434.3,Sunrise Mountain HS,Regular,38.5,2,YES,20.3,<5,8.8,NO,NO,NO,NO,NO,,,<5,,76.9,55,26.2,21.1,86.4,85.1,58.3,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2435.3,WCTA HS,Regular,98.0,5,NO,89.6,57.5,51.7,YES,YES,NO,NO,NO,,,30.4,,100,>95,>95,82.3,>95,>95,10.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2501.1,Brown H M ES,Regular,78.5,4,NO,63.5,53.5,49.1,YES,YES,NO,NO,NO,66.6,50.7,45.4,,,,,,,,12,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2601.3,Boulder City HS,Regular,82.78,5,NO,69.8,42.5,13.3,YES,YES,YES,NO,NO,,,-,,92.4,79.3,56.3,38.2,88.4,84,21.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2602.3,Moapa Valley HS,Regular,81.0,4,NO,70.5,38.7,37.5,YES,YES,NO,NO,NO,,,<5,,98.5,90.6,58.1,49.1,>95,>95,40.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2603.3,Virgin Valley HS,Regular,59.0,3,NO,41.8,20.1,15.3,YES,YES,NO,NO,NO,,,7.3,,98.4,88.3,64.9,40,82.1,80.9,31.4,NO,,NO,,YES,2.0,64827,Churchill,2023
+2023,2,Clark,2604.3,Indian Springs HS,Regular,70.0,4,YES,34.4,13.7,14.7,YES,YES,NO,NO,NO,,,-,,100,80.9,47.6,37.5,>95,85.7,22.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2607.3,Centennial HS,Regular,66.5,3,NO,42.9,19.6,13,NO,NO,YES,NO,NO,,,6,,87.8,72.4,53.8,32.1,92.7,91.7,37.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2608.3,Foothill HS,Regular,73.0,4,NO,62.2,28.6,26.8,YES,YES,NO,NO,NO,,,26,,88.6,63.4,35.8,38.6,89.2,88,30.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2609.3,Desert Pines HS,Regular,29.5,2,YES,21.7,<5,7.3,NO,NO,YES,YES,NO,,,<5,,84.7,65,40.6,24.8,76.6,75.7,56.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2611.3,Sierra Vista HS,Regular,58.5,3,YES,38.5,17.3,22.8,YES,YES,NO,NO,NO,,,11.2,,93.8,55.4,29.5,36.1,90,81.4,38.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2612.3,Coronado HS,Regular,79.0,4,NO,69.8,43.3,37.9,YES,YES,NO,NO,NO,,,5.4,,90.4,69.6,50.1,60.8,93.8,90.4,24.2,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2614.3,Odyssey HS,District Charter,59.5,3,NO,48.2,8.8,31.2,YES,YES,NO,NO,NO,,,14,,95.1,38.6,10.8,30.6,88.2,92.9,5.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2615.1,Expl Knowledge ES,District Charter,60.5,3,NO,57.7,20.8,37.5,YES,YES,NO,NO,NO,63.8,26.8,51.7,,,,,,,,7.7,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2616.2,Expl Knowledge SEC MS,District Charter,92.22,5,NO,59.2,32.7,56,YES,YES,NO,NO,NO,61,45.4,-,79.6,,,,,,,<5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2616.3,Expl Knowledge SEC HS,District Charter,72.78,4,NO,80.9,28.5,51.1,YES,YES,NO,NO,NO,,,-,,100,30,10,44,>95,>95,<5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2618.3,Arbor View HS,Regular,66.5,3,NO,49,21.1,22.8,YES,YES,NO,NO,NO,,,6.4,,91.8,64.1,46.6,42.8,94.8,94.3,29.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2619.3,Legacy HS,Regular,43.0,2,YES,20.9,6.7,11.6,NO,NO,YES,NO,NO,,,5.1,,82.3,70,25,26.9,83.3,85.5,45.1,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2620.3,NWCTA HS,Regular,94.0,5,NO,81.7,38.7,34.1,YES,YES,NO,NO,NO,,,41,,99.4,>95,>95,70.1,>95,>95,11.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2621.2,Delta Charter MS,District Charter,24.0,1,NO,24.3,9.6,21.2,YES,YES,YES,YES,NO,25.1,8.7,13.6,79.7,,,,,,,6.2,NO,,NO,,YES,4.0,64827,Churchill,2023
+2023,2,Clark,2621.3,Delta Charter HS,District Charter,19.0,1,NO,22.7,5.4,<5,NO,NO,YES,NO,NO,,,8.8,,68.2,43.8,7,6.6,68.8,71.3,8.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2623.3,Desert Oasis HS,Regular,63.5,3,NO,47.3,20.8,22.3,NO,NO,YES,NO,NO,,,5.2,,94.1,64.7,44.8,39.4,89,89.1,30.5,NO,,NO,,YES,3.0,64827,Churchill,2023
+2023,2,Clark,2624.3,ECTA HS,Regular,83.0,5,YES,67.3,26.1,18.7,YES,YES,NO,NO,NO,,,18.2,,94.5,>95,>95,44.9,>95,>95,22.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2625.2,NV LRN Academy MS,Regular,19.0,1,NO,28.2,7.7,10.6,NO,NO,YES,YES,NO,37.6,12.3,20,58.3,,,,,,,47.8,NO,,YES,,NO,,64827,Churchill,2023
+2023,2,Clark,2625.3,NV LRN Academy HS,Regular,16.5,1,NO,30.4,6.4,22.9,NO,NO,YES,YES,NO,,,<5,,60.7,50.5,13.1,22.5,70.6,91,51.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2626.1,NV LRN ACAD ES,Regular,10.5,1,YES,25.4,10.6,7,NO,NO,YES,YES,NO,37.1,13.7,18.9,,,,,,,,37.3,YES,1.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2627.3,CTTA HS,Regular,24.0,Not Rated,NO,33.7,8.6,,YES,YES,NO,NO,NO,,,-,,,,,,,,20,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2716.3,Acceleration Academy HS,Alternative,10.59,1,YES,<5,<5,,NO,NO,YES,NO,NO,,,,,6.6,29.3,<4.5,<5,13.3,24.3,<5,YES,2.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2777.2,CC Detention JSHS MS,Correctional,,Not Rated,NO,,,,-,-,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2777.3,CC Detention JSHS HS,Correctional,11.82,Not Rated,NO,-,-,,-,-,YES,NO,NO,,,,,,5.5,5.5,,<5,<5,<5,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2910.1,Stewart ES,Special Education,6.67,1,YES,<5,<5,-,-,,NO,NO,NO,,,,,,,,,,,46.6,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2910.2,Stewart MS,Special Education,2.5,1,YES,<5,<5,<5,YES,YES,NO,NO,NO,,,,<5,,,,,,,48.2,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2910.3,Stewart HS,Special Education,5.0,1,YES,<5,10,<5,-,,NO,NO,NO,,,,,-,<5,<4.5,,<5,<5,29.7,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2911.2,Variety JSHS MS,Special Education,8.11,Not Rated,YES,<5,5,-,NO,NO,NO,NO,NO,-,-,-,-,,,,,,,53.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2911.3,Variety JSHS HS,Special Education,3.85,1,YES,<5,<5,<5,-,,NO,NO,NO,,,,,<5,-,-,,<5,<5,37.7,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2912.2,Juvenile Court MS,Correctional,,Not Rated,NO,,,,-,,YES,YES,NO,,,,-,,,,,,,-,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2912.3,Juvenile Court HS,Correctional,2.0,Not Rated,NO,-,-,,NO,NO,NO,NO,NO,,,,,-,<5,<4.5,,<5,<5,-,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2913.2,Spring Mtn JSHS MS,Alternative,,Not Rated,NO,,,,-,-,NO,NO,NO,,,,-,,,,,,,-,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2913.3,Spring Mtn JSHS HS,Alternative,14.29,Not Rated,NO,,,,-,,NO,NO,NO,,,,,-,-,-,-,9,8.3,<5,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2916.2,Miley Achvmt SEC MS,Special Education,5.97,1,YES,<5,<5,-,NO,NO,YES,YES,NO,<5,<5,-,-,,,,,,,69.2,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2916.3,Miley Achvmt SEC HS,Special Education,0.0,Not Rated,YES,-,-,-,-,-,NO,NO,NO,,,,,-,-,-,-,10,15.3,71.4,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2917.1,Miley Achvmt ES,Special Education,3.33,Not Rated,YES,-,-,-,-,,YES,YES,NO,-,-,,,,,,,,,54.5,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2919.2,Summit View JSHS MS,Alternative,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2919.3,Summit View JSHS HS,Alternative,14.29,Not Rated,NO,-,-,-,-,,NO,NO,NO,,,,,,-,-,-,9.5,11.1,<5,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2922.3,Burk Horizon SW HS,Alternative,40.0,Not Rated,YES,,,,,,NO,NO,NO,,,,,,-,-,<5,78.5,91.3,60.8,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2923.3,Global Community HS,Alternative,13.0,1,NO,<5,<5,<5,NO,NO,NO,NO,NO,,,<5,,84.2,46.8,6.2,34.2,66.6,81.3,23,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2924.3,Cowan Sunset SE HS,Alternative,3.64,Not Rated,YES,-,-,,-,,YES,NO,NO,,,,,-,23,7.6,-,33.3,36.3,70.8,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2926.1,Desert Willow ES,Special Education,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2927.2,Desert Willow JSHS MS,Special Education,,Not Rated,NO,,,,-,-,YES,YES,NO,,,,-,,,,,,,-,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2927.3,Desert Willow JSHS HS,Special Education,0.0,Not Rated,NO,,,,-,-,NO,NO,NO,,,,,,,,,<5,-,-,YES,3.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2928.2,South Cont JSHS MS,Alternative,6.67,Not Rated,YES,,,,NO,NO,YES,YES,NO,,,-,66.6,,,,,,,84.6,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2928.3,South Cont JSHS HS,Alternative,1.43,Not Rated,YES,-,-,,NO,NO,YES,NO,NO,,,,,-,-,-,,<5,<5,34.7,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2932.2,Cowan Behavior MS,Alternative,26.67,Not Rated,YES,,,,NO,NO,YES,YES,NO,,,,65.4,,,,,,,83.3,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2932.3,Cowan Behavior HS,Alternative,0.0,Not Rated,YES,,,,-,-,NO,NO,NO,,,,,-,,,,<5,<5,92.8,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2933.2,Peterson Behavior MS,Alternative,13.33,Not Rated,YES,-,-,-,NO,NO,YES,YES,NO,-,-,,49.2,,,,,,,90.4,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2933.3,Peterson Behavior HS,Alternative,5.0,Not Rated,YES,,,,NO,NO,YES,NO,NO,,,-,,81.8,-,-,-,41.1,<5,62,YES,4.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2935.1,Variety ES,Special Education,6.67,Not Rated,YES,<5,15,-,-,,NO,NO,NO,-,-,-,,,,,,,,37.5,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2939.1,Juvenile Det ES,Correctional,,Not Rated,NO,,,,-,-,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2940.3,Prison Program HS,Correctional,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,-,,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2955.3,Desert Rose ALT HS,Alternative,3.33,Not Rated,YES,-,-,,NO,NO,YES,NO,NO,,,-,,,30.5,<4.5,<5,26,11.1,92.7,YES,5.0,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2956.3,HGHDSRTYOP HS,Correctional,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2957.2,Mission MS,Alternative,,Not Rated,YES,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64827,Churchill,2023
+2023,2,Clark,2957.3,Mission HS,Alternative,3.75,Not Rated,YES,-,-,-,-,-,NO,NO,NO,,,-,,,-,-,<5,61.1,55.5,63.1,YES,2.0,NO,,NO,,64827,Churchill,2023
+2023,3,Douglas,3201.1,Gardnerville ES,Regular,35.0,2,NO,53.2,40.2,20.3,YES,YES,NO,NO,NO,48.0,30.3,31.8,,,,,,,,16.2,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3202.1,Zephyr Cove ES,Regular,38.89,2,NO,53.3,48.3,33.3,YES,YES,NO,NO,NO,40.0,48.4,-,,,,,,,,27.8,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3205.1,Meneley  ES,Regular,22.5,1,YES,37,27.9,29,YES,YES,NO,NO,NO,32.1,25.6,30.7,,,,,,,,17.2,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3206.1,Jacks Valley ES,Regular,33.0,2,YES,48,31.8,26.3,YES,YES,NO,NO,NO,42.3,16.3,60.8,,,,,,,,15.3,NO,,NO,,YES,1.0,64828,Clark,2023
+2023,3,Douglas,3207.1,Scarselli ES,Regular,63.5,3,NO,54.8,49.1,34.7,YES,YES,NO,NO,NO,57.3,53.4,10,,,,,,,,18.5,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3209.1,Pinon Hills ES,Regular,61.11,3,NO,62.1,56,14.6,YES,YES,NO,NO,NO,56.9,49.4,-,,,,,,,,12.1,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3210.1,Minden ES,Regular,35.5,2,NO,47.7,39,37,YES,YES,NO,NO,NO,44.0,25.6,50,,,,,,,,13,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3301.2,Carson Valley MS,Regular,49.5,2,NO,50.8,32.1,33.1,YES,YES,NO,NO,NO,47.0,28.5,29.4,92.8,,,,,,,20.8,NO,,NO,,YES,4.0,64828,Clark,2023
+2023,3,Douglas,3302.2,Pau Wa Lu MS,Regular,34.5,2,YES,32.3,22.2,47,YES,YES,NO,NO,NO,29.5,21.2,31.2,92.4,,,,,,,22.9,NO,,NO,,YES,4.0,64828,Clark,2023
+2023,3,Douglas,3501.3,Douglas HS,Regular,78.0,4,NO,47.6,27.4,27.7,NO,NO,YES,NO,NO,,,15.5,,92.9,81.9,62.5,52.5,91.6,92.4,23.5,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3502.2,Whittell MS,Regular,58.33,3,NO,56.4,33.3,37.9,YES,YES,NO,NO,NO,58.3,30.9,-,50,,,,,,,20.5,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3502.3,Whittell HS,Regular,73.89,4,NO,46.1,15.3,14.8,-,-,NO,NO,NO,,,-,,100,91.3,47.8,64.7,89.4,>95,45.3,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3503.2,Jacobsen MS,Correctional,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,-,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3503.3,Jacobsen HS,Correctional,16.67,Not Rated,NO,,,,-,-,NO,NO,NO,,,-,,,-,-,,36.3,-,<5,YES,4.0,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3504.3,ASPIRE HS,Alternative,4.17,1,NO,6.2,5.8,-,-,-,NO,NO,NO,,,,,-,-,-,9.0,44.0,57.1,63.6,YES,3.0,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3601.1,Douglas Online ES,Alternative,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3601.2,Douglas Online MS,Alternative,65.0,3,NO,-,-,-,-,,YES,YES,NO,63.6,27.2,,40,,,,,,,46.1,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3601.3,Douglas Online HS,Alternative,17.5,1,NO,40,20,-,-,,NO,NO,NO,,,,,-,-,-,23.8,65.6,72.7,44,YES,2.0,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3901.1,Douglas Alternative ES,Alternative,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3901.2,Douglas Alternative MS,Alternative,,Not Rated,NO,,,,-,-,NO,NO,NO,,,,-,,,,,,,,NO,,NO,,NO,,64828,Clark,2023
+2023,3,Douglas,3901.3,Douglas Alternative HS,Alternative,,Not Rated,NO,,,,-,-,NO,NO,NO,,,,,-,-,-,,,,-,NO,,NO,,NO,,64828,Clark,2023
+2023,4,Elko,4104.1,Independence Vly ES,Regular,5.0,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4104.2,Independence Vly MS,Regular,,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4105.1,Jackpot ES,Regular,24.5,1,YES,23.5,8.8,-,YES,YES,NO,NO,NO,31.8,9,60,,,,,,,,23,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4107.1,Montello ES,Regular,50.0,Not Rated,NO,54.5,27.2,-,-,-,YES,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4107.2,Montello MS,Regular,,Not Rated,NO,,,,-,-,NO,NO,NO,,,,,,,,,,,-,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4108.1,Mound Valley ES,Regular,5.0,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4108.2,Mound Valley MS,Regular,4.0,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4111.1,Ruby Valley ES,Regular,100.0,Not Rated,NO,58.3,66.6,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4111.2,Ruby Valley MS,Regular,28.0,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4120.1,Liberty Peak ES,Regular,36.67,2,NO,48.4,38.4,18.8,YES,YES,NO,NO,NO,48.9,27.3,-,,,,,,,,21.6,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4202.1,Elko Grammar ES,Regular,61.0,3,NO,45.8,47.8,,YES,YES,NO,NO,NO,55.2,49.2,26.3,,,,,,,,25.8,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4203.1,Northside ES,Regular,53.5,3,NO,54.8,43.5,,YES,YES,NO,NO,NO,60,21.8,51.8,,,,,,,,15.2,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4204.1,Southside ES,Regular,48.5,2,YES,27,26.5,,NO,NO,YES,YES,NO,45.3,47.3,41.7,,,,,,,,28.1,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4205.1,Carlin ES,Regular,12.78,1,NO,20,6.6,5.2,YES,YES,NO,NO,NO,23.4,6.3,-,,,,,,,,23.1,NO,,NO,,YES,1.0,64829,Douglas,2023
+2023,4,Elko,4206.1,Owyhee ES,Regular,6.67,1,YES,8.5,5.3,<5,NO,NO,YES,YES,NO,7.8,<5,-,,,,,,,,47.9,YES,5.0,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4207.1,Wells ES,Regular,31.5,2,NO,42.2,31.9,12,YES,YES,YES,NO,NO,50.7,25.3,33.3,,,,,,,,12.9,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4208.1,W Wendover ES,Regular,38.5,2,YES,27.8,28.3,<5,YES,YES,NO,NO,NO,41.8,38.4,45.2,,,,,,,,24.3,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4209.1,Mtn View ES,Regular,58.0,3,NO,46.6,46.2,,YES,YES,YES,YES,NO,53.9,39.8,60,,,,,,,,18,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4210.1,Spring Creek ES,Regular,48.89,2,NO,41.4,41.4,19.3,YES,YES,NO,NO,NO,43,48.4,-,,,,,,,,24.7,NO,,NO,,YES,3.0,64829,Douglas,2023
+2023,4,Elko,4211.1,Sage ES,Regular,11.0,1,NO,29.4,26.3,8,YES,YES,NO,NO,NO,17.3,22.5,28.5,,,,,,,,31.1,NO,,NO,,YES,1.0,64829,Douglas,2023
+2023,4,Elko,4213.1,Flagview Intermediate ES,Regular,27.89,2,NO,36.5,31.1,14.8,YES,YES,NO,NO,NO,34.2,36.6,30.6,,,,,,,,22.5,NO,,NO,,YES,4.0,64829,Douglas,2023
+2023,4,Elko,4213.2,Flagview Intermediate MS,Regular,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4501.2,Carlin JHS MS,Regular,33.89,2,NO,38.8,13.8,36.8,YES,YES,NO,NO,NO,40,17.4,,59.0,,,,,,,25.6,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4502.2,Wells JHS MS,Regular,38.33,2,NO,39.5,27,25,YES,YES,YES,NO,NO,35.5,24.4,-,67.8,,,,,,,16,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4503.2,Adobe MS,Regular,29.5,2,NO,35.2,20.4,28.6,YES,YES,NO,NO,NO,31.8,17.5,36.9,68.6,,,,,,,30.8,NO,,NO,,YES,4.0,64829,Douglas,2023
+2023,4,Elko,4504.2,Spring Creek MS,Regular,30.56,2,NO,33.7,23.7,37.1,YES,YES,NO,NO,NO,29.5,23.1,-,93.6,,,,,,,31.1,NO,,NO,,YES,4.0,64829,Douglas,2023
+2023,4,Elko,4505.2,Jackpot JHS MS,Regular,18.57,1,YES,23,15.3,-,-,,NO,NO,NO,23,15.3,-,90.0,,,,,,,21.4,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4506.2,Owyhee JHS MS,Regular,15.56,1,NO,<5,<5,<5,NO,NO,YES,YES,NO,<5,<5,-,42.8,,,,,,,37.1,YES,5.0,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4507.2,W Wendover MS,Regular,22.5,1,YES,28.2,17.7,26.4,YES,YES,NO,NO,NO,29.7,21,13.5,72.2,,,,,,,30.4,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4601.3,Carlin HS,Regular,51.67,3,NO,23.5,5.5,31.8,-,,NO,NO,NO,,,-,,100,94.1,94.1,14.2,77.7,70.5,14.6,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4602.3,Wells HS,Regular,77.22,4,NO,40,32,25,YES,YES,NO,NO,NO,,,-,,100,70.8,54.1,45.8,>95,>95,20.6,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4603.3,Elko HS,Regular,55.0,3,NO,40.9,16.9,15.6,YES,YES,NO,NO,NO,,,12.5,,89,66.4,51.2,40.5,81.5,81,28.3,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4604.3,Owyhee HS,Regular,17.06,1,NO,15.7,5.2,-,NO,NO,YES,NO,NO,,,,,66.6,33.3,8.3,35.2,68,94.7,62.6,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4605.3,Jackpot HS,Regular,50.0,3,NO,23.5,11.7,-,-,-,NO,NO,NO,,,-,,100,58.3,25,-,85,81.8,29.2,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4606.3,Spring Creek HS,Regular,70.56,4,NO,48.6,22.4,17.1,YES,YES,NO,NO,NO,,,-,,82.7,81.5,46.3,47.2,90.9,90.6,29,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4607.3,W Wendover HS,Regular,51.0,3,YES,19.4,6.9,11.4,YES,YES,NO,NO,NO,,,12,,93.8,47.4,10.2,40.8,92.2,85.7,22,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4610.1,NE NV Virtual ES,Regular,54.44,Not Rated,NO,-,-,-,-,-,YES,YES,NO,54.1,21.7,-,,,,,,,,<5,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4610.2,NE NV Virtual MS,Regular,54.44,Not Rated,NO,-,-,-,NO,NO,YES,YES,NO,53.3,21.4,,36.8,,,,,,,<5,NO,,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4610.3,NE NV Virtual HS,Regular,19.41,1,NO,28,7.1,-,NO,NO,YES,NO,NO,,,-,,77.7,<5,<4.5,20,65.7,87.5,<5,YES,4.0,NO,,NO,,64829,Douglas,2023
+2023,4,Elko,4908.3,Battle Born Academy HS,Alternative,100.0,Not Rated,NO,,,,YES,YES,NO,NO,NO,,,,,-,-,-,-,-,,<5,NO,,NO,,NO,,64829,Douglas,2023
+2023,5,Esmeralda,5101.1,Dyer ES,Regular,12.31,1,YES,-,-,-,-,-,NO,NO,NO,25,33.3,,,,,,,,,50,NO,,NO,,NO,,64830,Elko,2023
+2023,5,Esmeralda,5101.2,Dyer MS,Regular,9.09,1,YES,20,<5,-,-,,NO,NO,NO,20,<5,,-,,,,,,,45.4,YES,1.0,NO,,NO,,64830,Elko,2023
+2023,5,Esmeralda,5102.1,Goldfield ES,Regular,6.67,Not Rated,YES,-,-,,-,-,YES,NO,NO,-,-,,,,,,,,,30.7,NO,,NO,,NO,,64830,Elko,2023
+2023,5,Esmeralda,5102.2,Goldfield MS,Regular,60.0,Not Rated,YES,-,-,,-,-,YES,NO,NO,-,30.7,,,,,,,,,-,YES,3.0,NO,,NO,,64830,Elko,2023
+2023,5,Esmeralda,5103.1,Silver Peak ES,Regular,80.0,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64830,Elko,2023
+2023,5,Esmeralda,5103.2,Silver Peak MS,Regular,,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,-,,,,,,,-,NO,,NO,,NO,,64830,Elko,2023
+2023,5,Esmeralda,5501.3,Esmeralda Virtual HS,Alternative,100.0,Not Rated,NO,-,-,-,-,-,NO,NO,NO,,,,,-,-,-,,-,-,<5,NO,,NO,,NO,,64830,Elko,2023
+2023,6,Eureka,6101.1,Crescent Valley ES,Regular,53.33,3,NO,36.8,47.3,-,YES,YES,NO,NO,NO,57.1,28.5,,,,,,,,,29.4,NO,,NO,,NO,,64831,Esmeralda,2023
+2023,6,Eureka,6103.1,Eureka ES,Regular,91.11,5,NO,69.1,65.4,50,YES,YES,NO,NO,NO,66.6,70.3,-,,,,,,,,22.7,NO,,NO,,NO,,64831,Esmeralda,2023
+2023,6,Eureka,6601.2,Eureka MS,Regular,43.33,2,NO,35.5,37.2,58.3,YES,YES,NO,NO,NO,39.6,31.4,,>95,,,,,,,12.0,NO,,NO,,NO,,64831,Esmeralda,2023
+2023,6,Eureka,6601.3,Eureka HS,Regular,65.56,3,NO,45.4,31.8,18.1,YES,YES,NO,NO,NO,,,-,,100.0,61.1,27.7,45.4,>95,73.3,22.5,NO,,NO,,NO,,64831,Esmeralda,2023
+2023,7,Humboldt,7101.1,Denio ES,Regular,,Not Rated,YES,-,-,-,-,-,NO,NO,NO,,,,,,,,,,,-,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7101.2,Denio MS,Regular,,Not Rated,YES,-,-,,-,-,NO,NO,NO,,,,,,,,,,,-,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7103.1,Kings River ES,Regular,,Not Rated,YES,-,-,-,-,-,NO,NO,NO,-,-,-,,,,,,,,-,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7103.2,Kings River MS,Regular,100.0,Not Rated,YES,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7104.1,Orovada ES,Regular,36.92,2,YES,38.4,46.1,-,-,,NO,NO,NO,42.8,35.7,-,,,,,,,,24.1,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7104.2,Orovada MS,Regular,59.09,3,YES,-,-,-,-,-,NO,NO,NO,43.7,25,-,-,,,,,,,-,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7105.1,Paradise Valley ES,Regular,51.54,3,YES,33.3,33.3,-,-,,NO,NO,NO,60,40,,,,,,,,,50,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7105.2,Paradise Valley MS,Regular,93.08,5,YES,-,-,-,-,-,NO,NO,NO,66.6,41.6,-,-,,,,,,,-,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7201.1,Sonoma Heights ES,Regular,67.5,4,YES,38.5,48,,YES,YES,NO,NO,NO,62.9,57.9,30.3,,,,,,,,30.9,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7202.1,Winnemucca GS ES,Regular,48.0,2,YES,27,35.4,,YES,YES,YES,NO,NO,51.6,41.6,44.4,,,,,,,,28.4,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7203.1,McDermitt ES,Regular,48.24,2,YES,8,<5,-,YES,YES,NO,NO,NO,40.9,33.3,,,,,,,,,45.8,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7205.1,Grass Valley ES,Regular,15.5,1,YES,29.2,26.9,,YES,YES,YES,NO,NO,35.9,15.6,31.8,,,,,,,,25.5,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7206.1,French Ford ES,Regular,27.37,2,YES,33.1,29.6,14.4,YES,YES,NO,NO,NO,30.6,38.6,30.3,,,,,,,,30.8,NO,,YES,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7301.2,Winnemucca JHS MS,Regular,40.0,2,YES,39.6,29.4,50.6,YES,YES,NO,NO,NO,37.8,31.2,11.4,88,,,,,,,33.1,NO,,NO,,YES,4.0,64832,Eureka,2023
+2023,7,Humboldt,7302.2,McDermitt JHS MS,Regular,10.34,1,YES,5.8,<5,-,-,,NO,NO,NO,5.8,<5,,-,,,,,,,55.5,YES,5.0,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7501.3,Lowry HS,Regular,58.0,3,NO,37.3,11.4,14.2,YES,YES,NO,NO,NO,,,9.2,,90.4,60.4,27.8,35.3,>95,>95,38.8,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7601.3,McDermitt HS,Regular,11.82,1,YES,18.1,<5,-,-,,NO,NO,NO,,,,,100.0,-,-,-,66.6,-,55.5,YES,1.0,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7901.1,Leighton Hall ES,Alternative,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7901.2,Leighton Hall MS,Alternative,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64832,Eureka,2023
+2023,7,Humboldt,7901.3,Leighton Hall HS,Alternative,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64832,Eureka,2023
+2023,8,Lander,8201.1,Battle Mtn ES,Regular,15.5,1,YES,35,24.8,,YES,NO,YES,YES,NO,37.7,29,21.4,,,,,,,,33.3,NO,,NO,,NO,,64833,Humboldt,2023
+2023,8,Lander,8302.2,Lemaire JHS MS,Regular,13.0,1,NO,14,10,7.6,NO,NO,YES,YES,NO,16.2,12.1,14.2,>95,,,,,,,33.8,NO,,YES,,NO,,64833,Humboldt,2023
+2023,8,Lander,8601.3,Battle Mtn HS,Regular,44.12,2,NO,51,6.3,-,NO,NO,YES,YES,NO,,,-,,87.2,53.2,35.4,18.4,85.5,76.6,40.4,NO,,NO,,NO,,64833,Humboldt,2023
+2023,8,Lander,8602.1,Austin Combined ES,Regular,,Not Rated,NO,-,-,,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64833,Humboldt,2023
+2023,8,Lander,8602.2,Austin Combined MS,Regular,,Not Rated,NO,-,-,,-,-,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64833,Humboldt,2023
+2023,8,Lander,8602.3,Austin Combined HS,Regular,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64833,Humboldt,2023
+2023,9,Lincoln,9102.1,Pahranagat Valley ES,Regular,18.89,1,YES,45.7,44.2,16.6,NO,NO,YES,YES,NO,26.1,33.3,-,,,,,,,,24.2,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9201.1,Caliente ES,Regular,73.75,4,YES,55.5,69.4,-,NO,NO,YES,NO,NO,70.8,79.1,,,,,,,,,34.9,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9202.1,Panaca ES,Regular,50.56,3,YES,50.6,53.6,31.8,YES,YES,NO,NO,NO,46.0,52.0,,,,,,,,,18.8,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9203.1,Pioche ES,Regular,68.67,4,YES,58,43.5,-,NO,NO,YES,NO,NO,57.1,42.8,-,,,,,,,,34.6,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9301.2,Meadow Valley MS,Regular,32.22,2,NO,44.2,29.5,51.2,YES,YES,NO,NO,NO,45.3,18.7,,>95,,,,,,,27,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9302.2,Pahranagat Valley MS,Regular,37.78,2,NO,45.5,21.9,44,NO,NO,YES,YES,NO,50.0,23.2,-,92.5,,,,,,,14.2,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9501.3,Lincoln HS,Regular,56.11,3,NO,37.4,18.7,15.3,NO,NO,YES,NO,NO,,,-,,97.5,52.7,8.3,76.6,>95,>95,27.9,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9601.3,Pahranagat Valley HS,Regular,78.33,4,NO,60,29.6,25,YES,YES,NO,NO,NO,,,-,,100.0,66.6,41.6,44.1,94.4,>95,21.3,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9602.2,C O Bastian MS,Juvenile Correctional,,Not Rated,NO,-,-,-,-,-,YES,YES,NO,,,,-,,,,,,,-,NO,,NO,,NO,,64834,Lander,2023
+2023,9,Lincoln,9602.3,C O Bastian HS,Juvenile Correctional,14.29,Not Rated,NO,-,-,-,-,,YES,NO,NO,,,,,,-,-,-,5.8,7.6,<5,YES,5.0,NO,,NO,,64834,Lander,2023
+2023,10,Lyon,10201.1,Dayton ES,Regular,27.0,2,YES,23.4,26,8.9,NO,NO,YES,NO,NO,28.5,33.5,42.8,,,,,,,,14.8,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10202.1,Yerington ES,Regular,16.0,1,YES,26.4,28.5,,YES,YES,NO,NO,NO,36.1,27.7,19.7,,,,,,,,36.9,NO,,NO,,YES,4.0,64835,Lincoln,2023
+2023,10,Lyon,10203.1,Fernley ES,Regular,19.0,1,YES,24.2,26.2,,YES,YES,YES,NO,NO,30.0,11.2,61.5,,,,,,,,38.9,NO,,NO,,YES,1.0,64835,Lincoln,2023
+2023,10,Lyon,10205.1,Silver Stage ES,Regular,10.0,1,YES,22.1,19,,YES,YES,NO,NO,NO,14.2,7.1,18.1,,,,,,,,35.1,YES,1.0,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10206.1,East Valley ES,Regular,52.5,3,YES,52.8,49,,YES,YES,YES,YES,NO,53.9,47.8,30,,,,,,,,24.5,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10208.2,Dayton Intermediate MS,Regular,26.0,1,YES,24.4,19.8,22.7,NO,NO,YES,YES,NO,28.2,26.2,33.3,84.7,,,,,,,24.6,NO,,NO,,YES,4.0,64835,Lincoln,2023
+2023,10,Lyon,10209.1,Cottonwood ES,Regular,25.5,1,YES,31.6,28.8,,YES,YES,NO,NO,NO,38.1,27.7,20.8,,,,,,,,36,NO,,NO,,YES,2.0,64835,Lincoln,2023
+2023,10,Lyon,10210.1,Sutro ES,Regular,17.5,1,YES,26.4,24.9,16.2,NO,NO,YES,NO,NO,30.8,27.8,14.2,,,,,,,,22.7,NO,,NO,,YES,4.0,64835,Lincoln,2023
+2023,10,Lyon,10211.1,Riverview ES,Regular,24.5,1,YES,27.8,32.2,12.5,YES,YES,YES,YES,NO,33.5,31.7,43.7,,,,,,,,20.3,NO,,NO,,YES,3.0,64835,Lincoln,2023
+2023,10,Lyon,10302.2,Yerington Intermediate MS,Regular,26.0,1,YES,26.0,16.6,11.9,YES,YES,YES,YES,NO,26.5,20.6,26,87.0,,,,,,,32.4,NO,,NO,,YES,4.0,64835,Lincoln,2023
+2023,10,Lyon,10303.1,Fernley Intermediate ES,Regular,24.21,1,YES,31.0,26.7,10,NO,YES,YES,YES,NO,28.9,30.8,60.8,,,,,,,,38,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10304.2,Silver Stage MS,Regular,23.33,1,YES,28.7,13.5,20.7,YES,YES,NO,NO,NO,31.1,19.4,-,75.0,,,,,,,32.6,NO,,NO,,YES,3.0,64835,Lincoln,2023
+2023,10,Lyon,10305.2,Silverland MS,Regular,16.32,1,YES,21.3,16.4,34,NO,NO,YES,YES,NO,19.0,15.3,40,,,,,,,,33.2,NO,,NO,,YES,4.0,64835,Lincoln,2023
+2023,10,Lyon,10601.3,Fernley HS,Regular,48.5,2,YES,34.8,12.2,21.5,NO,NO,YES,NO,NO,,,9.6,,88.2,57.4,34.2,34.8,84.3,84.8,37.3,NO,,YES,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10602.1,Smith Valley Combined ES,Regular,27.78,2,NO,49.0,37.2,<5,YES,YES,NO,NO,NO,29.6,33.3,-,,,,,,,,30.1,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10602.2,Smith Valley Combined MS,Regular,58.89,3,NO,42.8,27.2,45.4,NO,NO,YES,NO,NO,45.0,35.0,,66.6,,,,,,,21.4,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10602.3,Smith Valley Combined HS,Regular,71.11,4,NO,23.8,14.2,25,YES,YES,NO,NO,NO,,,-,,94.7,92.8,92.8,40.0,>95,>95,29.1,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10603.3,Yerington HS,Regular,55.0,3,YES,24.1,<5,18.6,YES,YES,YES,NO,NO,,,7.1,,91.5,74.1,41.1,34.9,86.4,90.1,37.7,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10604.3,Dayton HS,Regular,48.95,2,YES,38.0,10,19.6,YES,YES,NO,NO,NO,,,<5,,,58.2,44.3,28.5,85.8,89.7,32.4,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10605.3,Silver Stage HS,Regular,68.33,3,YES,26.9,9.5,25.9,YES,YES,NO,NO,NO,,,-,,91.6,85.5,60.5,32.8,91.7,90.5,36.8,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10902.2,Eagle Ridge MS,Alternative,,Not Rated,YES,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64835,Lincoln,2023
+2023,10,Lyon,10902.3,Eagle Ridge HS,Alternative,,Not Rated,YES,,,,-,-,NO,NO,NO,,,,,,-,-,,,,-,NO,,NO,,NO,,64835,Lincoln,2023
+2023,11,Mineral,11201.1,Hawthorne ES,Regular,14.44,1,YES,24.0,12.9,15.3,YES,YES,NO,NO,NO,34.1,17.9,-,,,,,,,,26.6,NO,,NO,,NO,,64836,Lyon,2023
+2023,11,Mineral,11202.1,Schurz ES,Regular,30.0,2,YES,31.0,6.6,-,YES,YES,NO,NO,NO,42.8,<5,38.8,,,,,,,,27.1,NO,,NO,,NO,,64836,Lyon,2023
+2023,11,Mineral,11203.2,Hawthorne JHS MS,Regular,12.22,1,YES,16.4,<5,34.2,YES,YES,NO,NO,NO,13.0,<5,-,78.9,,,,,,,29.4,YES,5.0,NO,,NO,,64836,Lyon,2023
+2023,11,Mineral,11601.3,Mineral HS,Regular,43.33,2,YES,21.9,<5,22.8,NO,NO,YES,NO,NO,,,,,100.0,85.9,45.6,39.1,74.1,73.5,30.5,NO,,NO,,NO,,64836,Lyon,2023
+2023,12,Nye,12101.1,Duckwater ES,Regular,10.0,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12102.1,Manse ES,Regular,42.5,2,YES,34.5,24.6,22.4,YES,YES,NO,NO,NO,46.8,39.2,26.8,,,,,,,,21.2,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12103.1,Round Mtn ES,Regular,18.89,1,NO,26.9,28.5,5.5,YES,YES,NO,NO,NO,25,15.6,-,,,,,,,,8.7,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12105.1,Gabbs ES,Regular,3.33,Not Rated,YES,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,46.6,YES,3.0,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12106.1,Amargosa Valley ES,Regular,40.0,2,YES,36.8,31.5,6.6,YES,YES,NO,NO,NO,52.3,19,23,,,,,,,,<5,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12108.1,JG Johnson ES,Regular,18.0,1,YES,27.5,18.9,10.2,YES,YES,NO,NO,NO,26.5,12.5,6,,,,,,,,10.4,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12201.1,Beatty ES,Regular,18.82,1,YES,16.1,<5,<5,YES,YES,NO,NO,NO,9,9,-,,,,,,,,6.3,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12202.1,Tonopah ES,Regular,37.22,2,YES,24.1,17.2,<5,YES,YES,NO,NO,NO,36.8,33.3,-,,,,,,,,12.3,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12207.1,Hafen ES,Regular,24.5,1,YES,33.6,27.8,19.7,YES,YES,NO,NO,NO,35.1,23.6,31.5,,,,,,,,9.5,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12210.1,Floyd ES,Regular,48.0,2,YES,40.5,37.7,24.1,YES,YES,YES,NO,NO,41.9,40.2,10.5,,,,,,,,<5,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12301.2,Rosemary Clarke MS,Regular,30.5,2,YES,30.5,22.8,29.3,NO,NO,YES,YES,NO,29.9,28,17.5,89.5,,,,,,,24.2,NO,,NO,,YES,4.0,64837,Mineral,2023
+2023,12,Nye,12311.2,Beatty MS,Regular,55.75,3,YES,50,25,-,YES,YES,NO,NO,NO,55,15,-,-,,,,,,,7.6,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12312.2,Tonopah MS,Regular,61.67,3,YES,40,26.6,36.8,YES,YES,NO,NO,NO,46.4,28.5,-,90.9,,,,,,,12.3,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12313.2,Round Mtn MS,Regular,45.56,2,NO,35,23.3,33.3,YES,YES,NO,NO,NO,33.9,23.2,-,>95,,,,,,,16.3,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12315.2,Gabbs MS,Regular,28.36,1,YES,20,10,-,-,,NO,NO,NO,11.7,<5,,-,,,,,,,10,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12316.2,Amargosa Valley MS,Regular,19.0,1,YES,12.9,16.6,42.1,YES,YES,NO,NO,NO,12.2,14.2,<5,89.4,,,,,,,<5,NO,,NO,,YES,4.0,64837,Mineral,2023
+2023,12,Nye,12317.2,Duckwater MS,Regular,,Not Rated,NO,-,-,,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12601.3,Beatty HS,Regular,55.0,3,YES,27.2,<5,11.5,YES,YES,NO,NO,NO,,,<5,,100,87,32.2,28.5,87.5,88,21.6,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12602.3,Gabbs HS,Regular,,Not Rated,YES,-,-,-,-,-,NO,NO,NO,,,,,-,-,-,-,-,-,-,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12603.3,Tonopah HS,Regular,56.67,3,YES,27.4,<5,15.3,NO,NO,YES,NO,NO,,,-,,100,60,16,45.8,92.3,>95,26.3,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12604.3,Pahrump Valley HS,Regular,52.0,3,YES,36.8,9,19.7,YES,YES,NO,NO,NO,,,9,,82.8,66.8,29.7,28.2,85,89.9,36.2,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12605.3,Round Mtn HS,Regular,65.0,3,NO,19,9.5,22.7,YES,YES,NO,NO,NO,,,-,,100,70.5,11.7,41.1,>95,93.3,7.5,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12606.3,Pathways HS,Alternative,7.5,1,YES,6.5,6.5,-,NO,NO,YES,NO,NO,,,-,,-,26.3,5.2,8.6,62.1,39.5,16.6,YES,5.0,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12607.2,Pathways MS,Alternative,26.67,1,YES,42.8,10.7,-,NO,NO,YES,YES,NO,46.1,7.6,-,60,,,,,,,12.7,NO,,NO,,NO,,64837,Mineral,2023
+2023,12,Nye,12609.1,Pathways ES,Alternative,19.23,1,YES,-,-,-,-,,YES,YES,NO,15.7,5.2,,,,,,,,,5.2,NO,,NO,,NO,,64837,Mineral,2023
+2023,13,Carson City,13201.1,Bordewich Bray ES,Regular,27.5,2,YES,30.1,30,16.4,YES,YES,NO,NO,NO,31.9,28.2,57.1,,,,,,,,20.7,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13203.1,Fritsch ES,Regular,71.5,4,YES,54.8,47.4,43,YES,YES,NO,NO,NO,63.3,41.9,67.8,,,,,,,,21.4,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13204.1,Fremont ES,Regular,31.0,2,YES,38.9,36.6,17.7,YES,YES,NO,NO,NO,41.2,37.7,35.2,,,,,,,,19.5,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13207.1,Seeliger ES,Regular,59.0,3,YES,44.9,47,21.6,YES,YES,NO,NO,NO,50,54.6,46.7,,,,,,,,13.8,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13209.1,Empire ES,Regular,26.0,1,YES,30.1,23.8,14.4,YES,YES,NO,NO,NO,29.5,30.2,31.2,,,,,,,,16.6,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13211.1,Mark Twain ES,Regular,56.0,3,YES,47.4,45.8,25.2,YES,YES,NO,NO,NO,46.5,43.2,50,,,,,,,,15.9,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13212.1,Carson Montessori ES,District Charter,37.5,2,NO,49.2,29.7,32.2,YES,YES,NO,NO,NO,53.5,19.1,10,,,,,,,,14.9,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13301.2,Carson MS,Regular,39.0,2,NO,38.3,33.8,37.4,YES,YES,NO,NO,NO,37.4,33.2,17.2,90.6,,,,,,,32.7,NO,,NO,,YES,3.0,64838,Nye,2023
+2023,13,Carson City,13302.2,Eagle Valley MS,Regular,25.5,1,NO,31.4,20.4,28.6,YES,YES,YES,NO,NO,29.6,17.4,18.6,84.4,,,,,,,18.5,NO,,NO,,YES,3.0,64838,Nye,2023
+2023,13,Carson City,13501.3,Carson HS,Regular,70.5,4,NO,45.9,22.3,27.8,YES,YES,NO,NO,NO,,,11.6,,81.8,73.0,55.0,45.9,92.2,88.2,30.3,NO,,NO,,YES,3.0,64838,Nye,2023
+2023,13,Carson City,13903.1,Pioneer Academy ES,Regular,43.33,Not Rated,NO,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,-,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13903.2,Pioneer Academy MS,Regular,86.67,5,NO,81.8,45.4,-,-,YES,NO,NO,NO,75,50,,>95,,,,,,,31.2,NO,,NO,,NO,,64838,Nye,2023
+2023,13,Carson City,13903.3,Pioneer Academy HS,Regular,24.44,1,NO,16.6,<5,17.6,YES,YES,NO,NO,NO,,,-,,82.6,43.1,11.3,17.8,80.0,70.5,59.8,NO,,YES,,NO,,64838,Nye,2023
+2023,14,Pershing,14101.1,Imlay ES,Regular,60.0,Not Rated,YES,-,-,-,-,-,NO,NO,NO,-,-,,,,,,,,,12.5,NO,,NO,,NO,,64839,Pershing,2023
+2023,14,Pershing,14201.1,Lovelock ES,Regular,15.0,1,YES,34.3,17.5,26,NO,NO,YES,YES,NO,31.7,20,25,,,,,,,,18.8,NO,,NO,,NO,,64839,Pershing,2023
+2023,14,Pershing,14301.2,Pershing MS,Regular,32.22,2,YES,28.4,10.4,27.6,YES,YES,NO,NO,NO,27,15,-,>95,,,,,,,13.2,NO,,NO,,NO,,64839,Pershing,2023
+2023,14,Pershing,14601.3,Pershing HS,Regular,61.67,3,YES,40.1,15,10.8,NO,NO,YES,NO,NO,,,-,,92.5,69.5,13.0,36.6,>95,>95,19.3,NO,,NO,,NO,,64839,Pershing,2023
+2023,15,Storey,15101.1,Gallagher ES,Regular,61.11,3,NO,44.4,49.2,32,YES,YES,NO,NO,NO,48.7,70.7,,,,,,,,,25.8,NO,,NO,,NO,,64840,Storey,2023
+2023,15,Storey,15102.1,Hillside ES,Regular,31.54,2,YES,44.4,44.4,-,-,,NO,NO,NO,27.2,45.4,,,,,,,,,24.4,NO,,NO,,NO,,64840,Storey,2023
+2023,15,Storey,15301.2,Virginia City MS,Regular,42.78,2,NO,44.4,28.8,51.6,YES,YES,NO,NO,NO,44.7,24.7,,>95,,,,,,,41.6,NO,,NO,,NO,,64840,Storey,2023
+2023,15,Storey,15601.3,Virginia City HS,Regular,61.11,3,NO,56.3,22.5,29.7,NO,NO,YES,NO,NO,,,-,,72.2,24.3,24.3,76.6,88.2,>95,39.8,NO,,NO,,NO,,64840,Storey,2023
+2023,16,Washoe,16201.1,Anderson ES,Regular,19.0,1,YES,19.6,18.9,6.9,YES,YES,NO,NO,NO,21.5,26.5,30.8,,,,,,,,37.7,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16202.1,Loder ES,Regular,15.0,1,YES,16,16.6,<5,YES,YES,NO,NO,NO,19.4,20.3,25,,,,,,,,22.8,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16203.1,Elmcrest ES,Regular,11.0,1,YES,26.3,21.4,6.1,YES,YES,NO,NO,NO,31.5,17.2,18.9,,,,,,,,28.7,NO,,NO,,YES,1.0,64841,Washoe,2023
+2023,16,Washoe,16204.1,Duncan ES,Regular,34.0,2,YES,25.8,15.6,<5,YES,YES,NO,NO,NO,37.5,24.5,66.9,,,,,,,,25.2,NO,,YES,,NO,,64841,Washoe,2023
+2023,16,Washoe,16205.1,Warner ES,Regular,26.5,1,YES,33.9,24.8,5.8,YES,YES,NO,NO,NO,46.6,26,28.1,,,,,,,,33.4,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16206.1,Hunter Lake ES,Regular,73.5,4,NO,71.3,65.7,47.7,YES,YES,NO,NO,NO,62.3,57.6,42.8,,,,,,,,18.6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16207.1,Beck ES,Regular,83.5,4,NO,75.9,71.6,55.9,YES,YES,NO,NO,NO,68,67.3,41.6,,,,,,,,11.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16208.1,Booth ES,Regular,15.0,1,YES,28.9,27.8,10,YES,YES,NO,NO,NO,26.7,26.1,16.9,,,,,,,,32.5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16209.1,Towles ES,Regular,69.0,4,NO,64.3,51.7,50,YES,YES,NO,NO,NO,62,45.9,42.8,,,,,,,,12.2,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16210.1,Melton ES,Regular,81.67,4,NO,69.5,70.2,48.9,YES,YES,NO,NO,NO,58.3,63.5,-,,,,,,,,6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16211.1,Mount Rose K 8 ES,Regular,82.5,4,NO,64.7,58.1,39.2,YES,YES,NO,NO,NO,53.3,59,51.7,,,,,,,,5.8,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16211.2,Mount Rose K 8 MS,Regular,100.0,5,NO,91.5,93.3,93.1,YES,YES,NO,NO,NO,81.9,93.3,-,>95,,,,,,,<5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16212.1,Double Diamond ES,Regular,38.5,2,NO,48,48.2,20.2,YES,YES,YES,NO,NO,39.7,38.7,36.6,,,,,,,,13.9,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16213.1,Peavine ES,Regular,58.5,3,YES,46.9,46.5,39.5,YES,YES,NO,NO,NO,53.4,61.6,33.3,,,,,,,,27.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16214.1,Cannan ES,Regular,34.5,2,YES,30.9,30.3,<5,YES,YES,NO,NO,NO,32.3,39.3,37.3,,,,,,,,20.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16215.1,Corbett ES,Regular,27.5,2,YES,24.5,22.1,8.9,YES,YES,NO,NO,NO,31,32.3,39.3,,,,,,,,14.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16216.1,Gomm ES,Regular,80.56,4,NO,70.3,69.3,33.3,YES,YES,YES,YES,NO,65.6,56.3,-,,,,,,,,7.1,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16218.1,Smithridge ES,Regular,28.5,2,YES,32.2,26.5,6.4,YES,YES,NO,NO,NO,36.6,29,44.3,,,,,,,,26.2,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16219.1,Stead ES,Regular,26.0,1,YES,22.3,21.1,<5,YES,YES,NO,NO,NO,31.4,33.5,32.8,,,,,,,,33.1,NO,,YES,,NO,,64841,Washoe,2023
+2023,16,Washoe,16220.1,Veterans Memorial STEM ES,Regular,27.0,2,YES,23.8,21.7,15,YES,YES,NO,NO,NO,30.7,34.8,20.4,,,,,,,,27.1,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16221.1,Risley ES,Regular,9.0,1,YES,17.2,18.5,<5,YES,YES,NO,NO,NO,22.5,20.5,35.5,,,,,,,,24.6,YES,1.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16222.1,Maxwell ES,Regular,56.0,3,YES,45.6,46.9,22.2,YES,YES,NO,NO,NO,47.8,53.4,40.4,,,,,,,,18.8,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16223.1,Drake ES,Regular,64.0,3,YES,72.1,78.2,30,YES,YES,NO,NO,NO,48,54.5,38,,,,,,,,<5,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16224.1,Greenbrae ES,Regular,33.0,2,YES,30.7,28.7,7.4,YES,YES,NO,NO,NO,35.7,39.8,33,,,,,,,,20.5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16225.1,Smith Kate ES,Regular,48.0,2,YES,30.5,32.6,26.6,YES,YES,NO,NO,NO,42.8,50.7,31.4,,,,,,,,14.3,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16226.1,Juniper ES,Regular,21.0,1,NO,42.1,34.8,8.5,YES,YES,YES,YES,NO,40.2,25.1,25,,,,,,,,8.2,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16227.1,Lincoln Park ES,Regular,20.5,1,YES,25.5,18.4,7,YES,YES,NO,NO,NO,31.8,23,18.8,,,,,,,,14.2,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16228.1,Mitchell ES,Regular,23.5,1,YES,33,18.8,17,YES,YES,NO,NO,NO,40.5,16.2,34.8,,,,,,,,19.7,YES,2.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16229.1,Brown ES,Regular,64.5,3,NO,54,57.6,37.5,YES,YES,NO,NO,NO,51.8,60.2,44.8,,,,,,,,11.3,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16230.1,Huffaker ES,Regular,50.0,3,NO,51.4,45.5,22.5,YES,YES,NO,NO,NO,50,39.5,41.1,,,,,,,,6.8,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16231.1,Lemelson STEM ES,Regular,30.0,2,NO,23.7,19.6,12.5,YES,YES,NO,NO,NO,36.6,32.3,42.6,,,,,,,,31,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16232.1,Lemmon Valley ES,Regular,18.0,1,YES,27.3,18.2,5.9,YES,YES,NO,NO,NO,23.1,22.8,27.8,,,,,,,,12.2,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16233.1,Pleasant Valley ES,Regular,75.5,4,NO,62.7,52.6,50.7,YES,YES,NO,NO,NO,61,51.6,40,,,,,,,,9.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16234.1,Sun Valley ES,Regular,22.0,1,YES,17.2,17,<5,YES,YES,NO,NO,NO,27.3,24.5,30.1,,,,,,,,15.6,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16235.1,Verdi ES,Regular,83.33,4,NO,64.1,63.2,46.5,YES,YES,NO,NO,NO,61.3,62.6,-,,,,,,,,13.6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16237.1,Natchez ES,Regular,15.56,1,YES,15.3,9.6,<5,YES,YES,NO,NO,NO,32.1,10.7,-,,,,,,,,25.8,YES,5.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16238.1,Diedrichsen ES,Regular,26.0,1,NO,42,31.7,14.2,YES,YES,NO,NO,NO,31.8,23.7,50,,,,,,,,13,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16239.1,Dunn ES,Regular,32.5,2,YES,35.7,30.9,29.7,YES,YES,NO,NO,NO,37.3,33.8,36.3,,,,,,,,6.6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16240.1,Palmer ES,Regular,17.5,1,YES,29.7,26.8,<5,YES,YES,NO,NO,NO,21.6,20.9,35.7,,,,,,,,15.5,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16241.1,Hall ES,Regular,68.0,4,NO,49.7,51.2,23.3,YES,YES,NO,NO,NO,56.9,49.5,41.6,,,,,,,,8.7,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16242.1,Sepulveda ES,Regular,33.5,2,NO,37.6,40.5,21.6,YES,YES,NO,NO,NO,33.7,37.8,35.1,,,,,,,,11.7,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16243.1,Poulakidas ES,Regular,80.5,4,NO,63.7,61.6,47.8,YES,YES,NO,NO,NO,57,60,66.6,,,,,,,,12.6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16244.1,JOHN BOHACH ES,Regular,79.5,4,NO,60,55.8,65.8,YES,YES,NO,NO,NO,60.1,60.9,39.2,,,,,,,,11.5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16245.1,Inskeep ES,Regular,31.0,2,NO,38.7,36,15.7,YES,YES,NO,NO,NO,34.7,33.3,12.5,,,,,,,,10.3,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16251.1,Incline ES,Regular,31.0,2,NO,42,41,11.5,YES,YES,NO,NO,NO,42.4,34.8,32.2,,,,,,,,19.9,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16256.1,Gomes ES,Regular,26.0,1,YES,39.6,34.1,15.9,YES,YES,NO,NO,NO,38.3,24.7,5.8,,,,,,,,21.2,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16257.1,Lenz ES,Regular,65.56,3,NO,69,65.1,20.7,YES,YES,YES,NO,NO,51.3,47.6,-,,,,,,,,10.6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16258.1,Dodson ES,Regular,26.5,1,YES,27,21.6,23.2,YES,YES,NO,NO,NO,32.5,33.7,22.5,,,,,,,,13.7,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16259.1,Whitehead ES,Regular,30.0,2,NO,38.6,27,21,YES,YES,NO,NO,NO,32.9,23.4,47,,,,,,,,11.3,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16260.1,Smith Alice ES,Regular,29.0,2,YES,38.4,35.8,23.4,YES,YES,NO,NO,NO,30.4,31.1,40.6,,,,,,,,15.3,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16261.1,Caughlin Ranch ES,Regular,94.44,5,NO,82.3,80,57.1,YES,YES,NO,NO,NO,75.6,67.7,-,,,,,,,,6.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16262.1,Hidden Valley ES,Regular,69.5,4,YES,57.7,53.2,20.5,YES,YES,NO,NO,NO,63,60,16.6,,,,,,,,17.4,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16263.1,Silver Lake ES,Regular,28.0,2,NO,40.3,31.4,20.8,YES,YES,NO,NO,NO,29.4,31.9,47.8,,,,,,,,21.5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16264.1,Westergard ES,Regular,57.0,3,NO,61.8,61.2,24,YES,YES,YES,NO,NO,50.8,52.9,30.7,,,,,,,,15.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16265.1,Taylor ES,Regular,55.56,3,NO,47.8,50.9,29.4,YES,YES,NO,NO,NO,46.6,52.6,-,,,,,,,,15.3,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16266.1,Allen ES,Regular,12.0,1,YES,18.4,16.3,10,YES,YES,NO,NO,NO,29,18.1,31.2,,,,,,,,25.1,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16267.1,Moss ES,Regular,35.5,2,NO,38.8,39.5,14,YES,YES,NO,NO,NO,45.3,40.6,28.5,,,,,,,,17.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16268.1,Desert Heights ES,Regular,12.0,1,YES,25.2,21.3,8.4,YES,YES,NO,NO,NO,29.4,19.5,21.5,,,,,,,,29,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16269.1,Spanish Spgs ES,Regular,61.11,3,NO,60.2,61,29.4,YES,YES,NO,NO,NO,50.6,47.4,-,,,,,,,,9.5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16270.1,Winnemucca ES,Regular,36.0,2,NO,44.3,39.4,23.1,YES,YES,NO,NO,NO,38.3,27.8,42.8,,,,,,,,11.7,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16271.1,Beasley ES,Regular,50.5,3,NO,55.3,50.5,38.8,YES,YES,NO,NO,NO,53,41.3,37,,,,,,,,8.3,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16272.1,Donner Springs ES,Regular,18.5,1,YES,21.8,24.5,10.9,YES,YES,NO,NO,NO,24.5,31.8,38.7,,,,,,,,22.9,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16273.1,Mathews ES,Regular,22.5,1,YES,22.3,17.3,<5,YES,YES,NO,NO,NO,18.8,13.6,34.1,,,,,,,,5.7,NO,,YES,,NO,,64841,Washoe,2023
+2023,16,Washoe,16274.1,Hunsberger ES,Regular,71.11,4,NO,77.4,78.7,45.1,YES,YES,NO,NO,NO,56.6,55,-,,,,,,,,<5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16275.1,Bennett ES,Regular,10.5,1,YES,15.8,21,<5,YES,YES,NO,NO,NO,15.6,13.4,30.6,,,,,,,,19.1,YES,1.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16276.1,Van Gorder ES,Regular,63.89,3,NO,63,61,43.9,YES,YES,NO,NO,NO,58.6,39.7,-,,,,,,,,11.7,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16278.1,Bailey CH ES,District Charter,29.0,2,YES,12.7,9.5,5.8,YES,YES,NO,NO,NO,29.5,29.5,44.1,,,,,,,,30.4,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16279.1,Coral Acad-South ES,District Charter,88.0,5,NO,62.8,58.2,44.4,YES,YES,NO,NO,NO,68.9,58.4,45.1,,,,,,,,5.3,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16281.1,Mariposa CS ES,District Charter,63.0,3,YES,44.4,40.7,7.4,YES,YES,NO,NO,NO,61.1,50,33.3,,,,,,,,<5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16282.1,High Desert CS ES,District Charter,31.5,2,NO,31.5,13.5,9.6,YES,YES,NO,NO,NO,40.2,24.2,21,,,,,,,,10.6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16282.2,High Desert CS MS,District Charter,45.0,2,NO,44.4,11.8,37.9,NO,NO,YES,YES,NO,50.8,12.6,-,>95,,,,,,,14,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16301.2,Clayton Academy MS,Regular,31.5,2,NO,42.4,26.2,38.3,YES,YES,NO,NO,NO,39,23.9,14.7,94.2,,,,,,,35.4,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16302.2,Pine MS,Regular,22.5,1,YES,37.4,20.6,34.9,YES,YES,NO,NO,NO,34.8,18.1,15.5,88.1,,,,,,,30.2,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16303.2,Swope MS,Regular,41.5,2,NO,58.6,49.5,55.2,YES,YES,YES,YES,NO,51.5,42.9,9,>95,,,,,,,24.5,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16304.2,Vaughn MS,Regular,16.0,1,YES,18.9,7.3,16.2,YES,YES,YES,NO,NO,17.6,8.8,16.9,91,,,,,,,43.4,NO,,YES,,NO,,64841,Washoe,2023
+2023,16,Washoe,16305.2,Traner MS,Regular,17.0,1,YES,12.2,8.3,10.3,YES,YES,YES,NO,NO,12.2,9,18.6,92.7,,,,,,,44.7,NO,,YES,,NO,,64841,Washoe,2023
+2023,16,Washoe,16306.2,Dilworth MS,Regular,21.0,1,YES,23.3,13.9,31.4,YES,YES,NO,NO,NO,21.4,13.8,21.7,>95,,,,,,,32.9,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16307.2,Sparks MS,Regular,19.0,1,YES,16.2,5.4,11,YES,YES,NO,NO,NO,13.2,5.6,26,>95,,,,,,,28.3,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16308.2,OBrien MS,Regular,12.0,1,YES,21.1,7,17.8,YES,YES,NO,NO,NO,19.6,5.9,7.8,88.5,,,,,,,37.8,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16309.2,Incline MS,Regular,50.0,3,NO,43.5,37.9,40.4,YES,YES,NO,NO,NO,40.7,33.3,22.7,94,,,,,,,31.6,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16310.2,Billinghurst MS,Regular,68.5,3,NO,52.3,45.3,45.6,YES,YES,NO,NO,NO,49.1,43.3,53.8,>95,,,,,,,19.5,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16311.2,Mendive MS,Regular,32.0,2,NO,39,20.4,32.5,YES,YES,NO,NO,NO,35.2,16.5,46.6,87.8,,,,,,,22.1,NO,,NO,,YES,2.0,64841,Washoe,2023
+2023,16,Washoe,16312.3,Coral Acad HS,District Charter,98.0,5,NO,88,45.3,58.6,YES,YES,NO,NO,NO,,,25,,96.2,93.4,52.4,73.6,>95,>95,<5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16315.2,Depoali MS,Regular,64.5,3,NO,56.3,46.7,58.6,YES,YES,NO,NO,NO,51.7,42.9,20.8,91.8,,,,,,,16,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16316.2,Shaw MS,Regular,49.5,2,NO,51.7,40.4,46.1,YES,YES,NO,NO,NO,47.1,35.7,12.5,92.5,,,,,,,18.1,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16317.2,Cold Springs MS,Regular,30.5,2,NO,30.7,17.4,35.3,YES,YES,NO,NO,NO,29.8,17.8,32.3,>95,,,,,,,29.8,NO,,NO,,YES,4.0,64841,Washoe,2023
+2023,16,Washoe,16318.1,Coral Acad ES,District Charter,77.0,4,NO,43.8,52.6,,YES,YES,NO,NO,NO,61.5,75.6,45.4,,,,,,,,9.3,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16319.2,Sky Ranch MS,Regular,60.5,3,NO,59.6,43.6,53.4,YES,YES,NO,NO,NO,54.6,36.6,24.4,93.1,,,,,,,14.9,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16320.2,Coral Academy MS,District Charter,60.0,3,NO,51.4,39.1,39.8,YES,YES,NO,NO,NO,44.2,36,17.3,>95,,,,,,,8.5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16321.2,Desert Skies MS,Regular,18.0,1,YES,18.5,7.8,18.2,YES,YES,NO,NO,NO,20,7.5,18.3,>95,,,,,,,37.5,NO,,YES,,NO,,64841,Washoe,2023
+2023,16,Washoe,16322.2,Herz MS,Regular,63.89,3,NO,58.1,47.2,53.7,NO,NO,YES,NO,NO,52.5,42,-,>95,,,,,,,14.8,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16501.3,Wooster HS,Regular,61.0,3,YES,22.4,8.4,16.8,NO,NO,YES,NO,NO,,,11.1,,81.6,81.8,46.2,38.5,89.4,83.1,55.7,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16502.3,Reno HS,Regular,82.5,5,NO,65.4,42.1,35.7,NO,NO,YES,NO,NO,,,6.2,,87.7,71.6,58.6,62.4,91.8,91.4,25.1,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16503.3,Sparks HS,Regular,38.5,2,YES,12.4,<5,8.5,NO,NO,YES,NO,NO,,,<5,,69.1,60.5,22.6,25,85.7,85.6,51,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16504.3,Hug HS,Regular,35.5,2,YES,18.6,8.7,15.8,NO,NO,YES,NO,NO,,,10.8,,82.8,55.2,30.8,33.9,76.4,84.1,56,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16505.3,Reed HS,Regular,54.0,3,NO,44.7,14.6,21.8,YES,YES,YES,NO,NO,,,8.5,,82.3,69.1,43.3,45,83.3,83.2,25.1,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16507.1,Inspire Academy ES,Alternative,,Not Rated,YES,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16507.2,Inspire Academy MS,Alternative,,Not Rated,YES,-,-,-,-,,YES,YES,NO,-,-,,-,,,,,,,-,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16507.3,Inspire Academy HS,Alternative,3.33,1,YES,<5,5.8,-,NO,NO,YES,NO,NO,,,-,,-,13.3,<4.5,-,16.2,16.2,52.9,YES,5.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16508.3,McQueen HS,Regular,80.0,4,NO,58.8,27.9,40.5,NO,NO,NO,NO,NO,,,10.5,,88.7,75,51.9,52,91.2,91.8,33,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16509.3,Galena HS,Regular,87.0,5,NO,66.4,36.2,45.8,YES,YES,NO,NO,NO,,,10.7,,94.6,85.8,60,68.8,91.5,93.1,21.6,NO,,NO,,YES,2.0,64841,Washoe,2023
+2023,16,Washoe,16510.3,Innovations HS,Alternative,25.0,1,NO,44.8,23.3,5.8,YES,YES,NO,NO,NO,,,-,,80.9,17.8,<4.5,16.1,72,81.8,72.9,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16601.1,Gerlach K 12 ES,Regular,35.0,Not Rated,NO,-,-,-,-,,NO,NO,NO,-,-,,,,,,,,,7.6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16601.2,Gerlach K 12 MS,Regular,,Not Rated,NO,-,-,-,-,-,NO,NO,NO,,,,-,,,,,,,-,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16601.3,Gerlach K 12 HS,Regular,,Not Rated,NO,-,-,,-,-,NO,NO,NO,,,,,,-,-,-,-,-,-,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16602.3,Incline HS,Regular,78.0,4,NO,52.7,38.3,18.5,YES,YES,NO,NO,NO,,,5.8,,97.1,85.7,60.7,56.7,93,>95,24.5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16603.3,TMCC Magnet HS,Regular,94.38,5,NO,>95,76.4,-,YES,YES,NO,NO,NO,,,,,,>95,>95,85.8,>95,>95,21.6,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16605.1,Sierra NV Acad CS ES,District Charter,11.0,1,YES,17.5,18.7,12,YES,YES,NO,NO,NO,26.5,22.4,14.2,,,,,,,,29.8,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16605.2,Sierra NV Acad CS MS,District Charter,39.44,2,YES,31.5,12.6,41,YES,YES,NO,NO,NO,33.6,18.6,-,89.7,,,,,,,26.2,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16605.3,Sierra NV Acad CS HS,District Charter,10.0,Not Rated,YES,-,-,-,-,-,NO,NO,NO,,,-,,-,,,,,,36.8,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16606.3,Spanish Springs HS,Regular,58.0,3,NO,49,19.4,27.6,YES,YES,NO,NO,NO,,,5.2,,95.1,78,55.1,43.4,79.7,86.8,24.4,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16607.3,North Valleys HS,Regular,37.5,2,NO,28.6,10.8,14.9,NO,NO,YES,NO,NO,,,11.3,,75.2,56.9,26.6,32.4,78.8,82.9,46,NO,,NO,,YES,3.0,64841,Washoe,2023
+2023,16,Washoe,16608.3,ACE ACAD HS,District Charter,77.5,4,NO,43.4,15.2,42.1,YES,YES,NO,NO,NO,,,7.1,,100,>95,>95,34.6,>95,>95,<5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16609.3,Damonte Ranch HS,Regular,70.5,4,NO,52.3,26.5,29.4,YES,YES,YES,NO,NO,,,8.5,,86.9,81.3,49.2,55.5,86.1,88.9,29.5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16610.3,enCompass CS HS,District Charter,23.33,1,YES,29.6,9.8,10.5,NO,NO,YES,NO,NO,,,,,88.8,65,5,29.1,66.6,85.1,66.3,YES,5.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16611.3,Arts Careers Tech HS,Regular,97.5,5,NO,88.6,54.7,49.7,YES,YES,NO,NO,NO,,,40,,100,>95,>95,89.3,>95,>95,11.9,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16911.1,Picollo K 12 ES,Special Education,0.0,1,YES,-,-,,-,,YES,YES,NO,,,,,,,,,,,56.5,YES,1.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16911.2,Picollo K 12 MS,Special Education,5.41,1,YES,<5,7.5,-,-,,YES,YES,NO,,,,-,,,,,,,50,YES,1.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16911.3,Picollo K 12 HS,Special Education,0.0,Not Rated,YES,-,-,-,-,-,NO,NO,NO,,,,,-,-,-,,<5,-,43.4,YES,1.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16917.1,Turning Point ES,Alternative,7.27,1,YES,-,-,-,-,-,YES,NO,NO,9,<5,,,,,,,,,-,YES,1.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16917.2,Turning Point MS,Alternative,54.55,Not Rated,YES,-,-,-,-,,YES,NO,NO,-,-,,-,,,,,,,60,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16917.3,Turning Point HS,Alternative,0.0,Not Rated,YES,-,-,-,-,-,NO,NO,NO,,,,,-,,,-,50,-,-,YES,4.0,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16923.1,North Star Online ES,Alternative,60.0,3,NO,56.9,27.7,30.3,YES,YES,NO,NO,NO,51,42.8,-,,,,,,,,<5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16923.2,North Star Online MS,Alternative,55.0,3,NO,54.7,22.6,47.5,YES,YES,YES,YES,NO,54.3,23.3,-,86.6,,,,,,,<5,NO,,NO,,NO,,64841,Washoe,2023
+2023,16,Washoe,16923.3,North Star Online HS,Alternative,42.78,2,NO,60.2,17.5,34.6,YES,YES,NO,NO,NO,,,-,,92.3,45.5,9.9,36.6,72.7,>95,11.9,NO,,NO,,NO,,64841,Washoe,2023
+2023,17,White Pine,17101.1,Lund ES,Regular,33.33,2,NO,31,38.5,-,NO,YES,YES,NO,NO,25.0,40.0,-,,,,,,,,9.6,NO,,NO,,NO,,64842,White Pine,2023
+2023,17,White Pine,17103.1,Baker ES,Regular,68.18,4,NO,53.8,38.4,-,-,,NO,NO,NO,60.0,50.0,-,,,,,,,,-,NO,,NO,,NO,,64842,White Pine,2023
+2023,17,White Pine,17201.1,Norman ES,Regular,16.11,1,YES,18.8,23.6,11.4,YES,YES,NO,NO,NO,27.9,28.7,-,,,,,,,,28.7,NO,,NO,,NO,,64842,White Pine,2023
+2023,17,White Pine,17203.1,McGill ES,Regular,55.0,3,YES,26.5,30,7.1,YES,YES,NO,NO,NO,40.7,44.4,,,,,,,,,10.5,NO,,NO,,NO,,64842,White Pine,2023
+2023,17,White Pine,17301.2,White Pine MS,Regular,48.89,2,YES,31.7,30.4,36.3,YES,YES,NO,NO,NO,34.0,35.9,-,>95,,,,,,,22.2,NO,,NO,,YES,4.0,64842,White Pine,2023
+2023,17,White Pine,17502.3,White Pine HS,Regular,66.5,3,NO,33.8,21.3,16.1,NO,NO,YES,NO,NO,,,<5,,95.5,77.7,63.8,50,>95,>95,30.5,NO,,NO,,NO,,64842,White Pine,2023
+2023,17,White Pine,17601.2,Lund JSHS MS,Regular,23.56,1,NO,25.2,21,-,NO,NO,YES,NO,NO,18.1,22.7,-,-,,,,,,,14.2,NO,,NO,,NO,,64842,White Pine,2023
+2023,17,White Pine,17601.3,Lund JSHS HS,Regular,84.0,5,NO,50,50,-,-,,NO,NO,NO,,,,,-,-,-,-,>95,-,26.6,NO,,NO,,NO,,64842,White Pine,2023
+2023,17,White Pine,17903.3,Steptoe Valley HS,Alternative,3.33,Not Rated,YES,-,-,,-,,YES,NO,NO,,,,,-,30.7,<4.5,<5,62.5,46.6,79.3,YES,5.0,NO,,NO,,64842,White Pine,2023
+2023,18,State Public Charter School Authority ,101101.1,NV Rise CS ES,SPCSA,15.0,1,YES,32,22.4,7.8,YES,YES,NO,NO,NO,31.6,14.8,29.8,,,,,,,,33.8,NO,,NO,,YES,1.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,102100.1,NV Prep CS ES,SPCSA,50.5,3,YES,24.6,23.2,15.7,NO,NO,YES,NO,NO,56.4,38.4,27.2,,,,,,,,17,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,102100.2,NV Prep CS MS,SPCSA,56.0,3,YES,36,25.5,42.5,NO,NO,YES,YES,NO,37.3,35.5,25,>95,,,,,,,13.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,104101.3,NSHS II Meadowood HS,SPCSA,100.0,5,NO,62.5,43.7,,-,,NO,NO,NO,,,,,,>95,>95,88.2,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,105101.1,Signature Prep CS ES,SPCSA,43.5,2,YES,51.1,40.4,30.6,YES,YES,NO,NO,NO,44.1,31.7,48.9,,,,,,,,25.3,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,105101.2,Signature Prep CS MS,SPCSA,41.0,2,YES,41.9,16.2,31.6,YES,YES,NO,NO,NO,43.6,18.3,20,>95,,,,,,,23.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,106101.1,Pinecrest Northern NV ES,SPCSA,82.0,4,NO,56.2,58.5,56,YES,YES,NO,NO,NO,59.5,64.5,7.6,,,,,,,,8.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,106101.2,Pinecrest Northern NV MS,SPCSA,85.56,5,NO,55.7,53.2,53.9,YES,YES,NO,NO,NO,53.5,51.3,-,>95,,,,,,,13.3,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,107101.2,Explore ACAD MS,SPCSA,11.11,1,YES,17.6,6.9,14.2,YES,YES,YES,YES,NO,18.8,<5,-,>95,,,,,,,32.4,NO,,NO,,YES,1.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,107101.3,Explore ACAD HS,SPCSA,20.0,Not Rated,YES,-,-,26.9,-,-,NO,NO,NO,,,-,,65.8,,,,,,38.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,108101.2,GEMS MS,SPCSA,33.0,2,YES,31.8,<5,26.9,YES,YES,NO,NO,NO,31.6,<5,21.4,<5,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,110100.1,CIVICA Acad ES,SPCSA,27.5,2,YES,31.8,25.9,<5,YES,YES,NO,NO,NO,34.9,31.7,33.3,,,,,,,,30.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,110100.2,CIVICA Acad MS,SPCSA,35.0,2,YES,33.5,11.6,16.9,YES,YES,NO,NO,NO,37.6,14,52.2,80.9,,,,,,,31.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,111100.1,Sage Collegiate ES,SPCSA,49.44,2,NO,33.8,26.7,6.2,YES,YES,YES,NO,NO,50,57.6,-,,,,,,,,45.1,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,112100.1,TEACH Las Vegas ES,SPCSA,11.0,1,YES,21.5,12.6,7.6,YES,YES,NO,NO,NO,19.5,14.6,6.6,,,,,,,,48.1,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,112100.2,TEACH Las Vegas MS,SPCSA,11.0,1,YES,21.4,7.1,7.6,YES,YES,YES,NO,NO,13.4,5.8,9,76.9,,,,,,,45.3,NO,,NO,,YES,1.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,113100.2,YWLA MS,SPCSA,34.48,2,YES,32.1,<5,,YES,YES,NO,NO,NO,52.1,8.3,-,,,,,,,,56.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,113100.3,YWLA HS,SPCSA,55.0,Not Rated,YES,,,,,,NO,NO,NO,,,,,73.3,,,,,,5.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,114100.1,pilotED Cactus Park ES,SPCSA,5.71,Not Rated,YES,16,16,,YES,YES,NO,NO,NO,-,-,-,,,,,,,,53.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,115100.1,Strong Start Academy ES,SPCSA,95.0,Not Rated,YES,,,,,,NO,NO,NO,,,-,,,,,,,,5.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,116100.1,Battle Born Charter ES,SPCSA,24.21,1,YES,42.1,10.5,15.7,YES,YES,NO,NO,NO,43.7,6.2,8.3,,,,,,,,32.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,116100.2,Battle Born Charter MS,SPCSA,51.15,3,YES,20.6,<5,,YES,YES,NO,NO,NO,30.4,30.4,-,,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,38435.1,Freedom Class ACAD ES,SPCSA,34.0,2,NO,37.6,40.1,21.2,YES,YES,NO,NO,NO,33.6,36.9,43.2,,,,,,,,11.5,NO,,NO,,YES,3.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,38435.2,Freedom Class ACAD MS,SPCSA,74.5,4,NO,46,37,43.2,YES,YES,NO,NO,NO,46.3,38.6,50,>95,,,,,,,12.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,39438.1,Legacy N Valley ES,SPCSA,34.0,2,YES,37.9,28.4,12.1,YES,YES,NO,NO,NO,46.1,32.1,36.1,,,,,,,,26.3,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,39438.2,Legacy N Valley MS,SPCSA,54.0,3,YES,43.6,22.8,32.1,YES,YES,NO,NO,NO,45,26.8,44.1,87.7,,,,,,,24.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,39439.1,Legacy Cadence ES,SPCSA,41.0,2,YES,42.6,38.2,15,YES,YES,NO,NO,NO,45.6,46.1,30.3,,,,,,,,30.5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,39439.2,Legacy Cadence MS,SPCSA,46.5,2,YES,49.8,26,41.7,YES,YES,NO,NO,NO,51.8,28.5,9,73.3,,,,,,,28.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,39440.1,Legacy SW ES,SPCSA,59.5,3,NO,61.7,55.1,33.1,YES,YES,NO,NO,NO,53.7,42.7,47.8,,,,,,,,14.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,39440.2,Legacy SW MS,SPCSA,72.5,4,NO,63.5,46.4,50,YES,YES,NO,NO,NO,61.4,49.1,11.7,82.8,,,,,,,15.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,43100.1,Futuro ACAD ES,SPCSA,57.5,3,YES,39.1,24.7,5.2,YES,YES,NO,NO,NO,57.8,48.9,18.3,,,,,,,,29.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,44437.1,Mater Northern NV ES,SPCSA,65.0,3,YES,35.5,43.4,8.1,YES,YES,NO,NO,NO,51.5,63.9,42.7,,,,,,,,14.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,44437.2,Mater Northern NV MS,SPCSA,57.0,3,YES,30.9,26.9,36.5,YES,YES,NO,NO,NO,36.3,29.5,42.8,>95,,,,,,,14.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,46100.1,DP Agassi ES,SPCSA,35.0,2,YES,36.8,32.9,6.9,YES,NO,YES,YES,NO,40.4,49.2,30.2,,,,,,,,36.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,46200.2,DP Agassi MS,SPCSA,57.0,3,YES,35,17.8,37.8,YES,YES,NO,NO,NO,44,29.3,17.8,>95,,,,,,,46.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,46300.3,DP Agassi  HS,SPCSA,57.0,3,YES,42.1,22.8,15.4,YES,YES,NO,NO,NO,,,8.6,,93.9,68.2,21.9,21,86.3,94.4,23.5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,47434.1,SLAM ES,SPCSA,20.0,1,YES,31.1,30.5,12.9,YES,YES,NO,NO,NO,27.9,30.3,28.1,,,,,,,,27.7,NO,,NO,,YES,1.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,47434.2,SLAM MS,SPCSA,52.5,3,YES,40.8,25,25.4,YES,YES,NO,NO,NO,46.1,30,28.2,87.3,,,,,,,28.1,NO,,NO,,YES,4.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,47434.3,SLAM HS,SPCSA,72.5,4,YES,42.7,9.3,13.1,YES,YES,NO,NO,NO,,,34.7,,92,88.6,82.4,33,>95,>95,36.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,48433.2,Equipo ACAD MS,SPCSA,34.0,2,YES,29.6,10.6,29.4,YES,YES,NO,NO,NO,28.4,12.5,18.9,>95,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,48433.3,Equipo ACAD HS,SPCSA,77.0,4,YES,30.6,14,12.9,YES,YES,NO,NO,NO,,,13.6,,98.2,>95,56.3,>95,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,49432.1,Mater Mtn Vista  ES,SPCSA,64.5,3,YES,45.4,47.9,11.2,YES,YES,NO,NO,NO,46.3,54.1,53.3,,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,49432.2,Mater Mtn Vista  MS,SPCSA,64.5,3,YES,51.9,34.7,45.6,YES,YES,NO,NO,NO,51.8,37.4,14,>95,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,49433.1,Mater Bonanza ES,SPCSA,54.0,3,YES,43.5,40.7,8.5,YES,YES,NO,NO,NO,44.3,41,51,,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,49433.2,Mater Bonanza MS,SPCSA,52.5,3,YES,35,22,15.3,YES,YES,NO,NO,NO,37.4,22.9,34.3,>95,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,49434.1,Mater East ES,SPCSA,41.0,2,YES,31.9,34.5,12.8,YES,YES,NO,NO,NO,29,37.4,50.7,,,,,,,,6.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,49434.2,Mater East MS,SPCSA,50.5,3,YES,35,17.9,21.8,YES,YES,NO,NO,NO,36,20.7,34.4,>95,,,,,,,10.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,49434.3,Mater East HS,SPCSA,40.0,Not Rated,YES,31.3,5.8,13,YES,YES,NO,NO,NO,,,10.8,,98.4,,,,,,10.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,50431.1,Amplus Durango ES,SPCSA,83.5,4,NO,63.4,61.5,56.3,YES,YES,NO,NO,NO,58.6,62.3,56.5,,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,50431.2,Amplus Durango MS,SPCSA,64.5,3,NO,61,42,52,YES,YES,NO,NO,NO,59.3,38.7,19,84,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,50431.3,Amplus Durango HS,SPCSA,93.0,5,NO,74.3,47.1,38.5,YES,YES,NO,NO,NO,,,26.3,,98.8,88.8,35.1,79.5,>95,>95,7.5,YES,3.0,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,50432.1,Amplus Rainbow ES,SPCSA,88.0,5,YES,62.7,66,48.9,YES,YES,NO,NO,NO,59.7,65.1,46.8,,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,51430.1,Founders ACAD ES,SPCSA,61.0,3,NO,43.2,47,11.1,YES,YES,NO,NO,NO,45.1,51.6,47.2,,,,,,,,8.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,51430.2,Founders ACAD MS,SPCSA,90.0,5,NO,60.1,48.6,46.6,YES,YES,NO,NO,NO,56.8,52.2,-,77.3,,,,,,,5.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,51430.3,Founders ACAD HS,SPCSA,72.22,4,NO,69.2,33.3,28.2,YES,YES,NO,NO,NO,,,-,,85.7,54.5,4.5,50,>95,93.7,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,52429.2,Leadership ACAD MS,SPCSA,65.0,3,NO,62.2,38.2,45.6,NO,NO,YES,YES,NO,60.9,42.6,-,67.7,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,52429.3,Leadership ACAD HS,SPCSA,73.33,4,NO,72.7,31.8,28.5,YES,YES,NO,NO,NO,,,,,84,38.4,30.7,55.5,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,54428.1,Learning Bridge ES,SPCSA,38.89,2,NO,41.6,26.6,25,YES,YES,NO,NO,NO,43.5,33.3,-,,,,,,,,22.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,54428.2,Learning Bridge MS,SPCSA,81.11,5,NO,50.9,50.9,63.1,YES,YES,NO,NO,NO,54.9,52.9,-,>95,,,,,,,15.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55200.1,Doral Cactus  ES,SPCSA,81.0,4,NO,65.7,64.2,31.8,YES,YES,NO,NO,NO,56.6,58.9,38,,,,,,,,6.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55200.2,Doral Cactus  MS,SPCSA,94.44,5,NO,73.2,57.8,62.8,YES,YES,NO,NO,NO,68.4,55.5,-,>95,,,,,,,10.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55201.1,Doral Fire Mesa ES,SPCSA,43.0,2,NO,51.4,45.7,22.5,YES,YES,NO,NO,NO,44.1,37.9,47,,,,,,,,12.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55201.2,Doral Fire Mesa MS,SPCSA,70.0,4,NO,54.3,38.8,44.1,YES,YES,NO,NO,NO,50.8,40.1,29.4,91.9,,,,,,,17,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55202.1,Doral Red Rock ES,SPCSA,95.0,5,NO,73.2,72.2,48.9,YES,YES,NO,NO,NO,71.1,64.5,50,,,,,,,,8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55202.2,Doral Red Rock MS,SPCSA,80.0,5,NO,68.4,50.6,58.9,YES,YES,NO,NO,NO,65,49.6,50,>95,,,,,,,22.5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55202.3,Doral Red Rock HS,SPCSA,78.5,4,NO,64.3,25.8,31.4,YES,YES,NO,NO,NO,,,11.5,,99.6,76.7,36.3,54.7,>95,>95,31.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55203.1,Doral Saddle ES,SPCSA,85.5,5,NO,66.4,63.1,23.8,YES,YES,NO,NO,NO,54.4,56.4,70.8,,,,,,,,6.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55203.2,Doral Saddle MS,SPCSA,78.89,4,NO,59.9,46.3,43.1,YES,YES,NO,NO,NO,57.3,47.3,-,>95,,,,,,,14.3,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55204.1,Doral W Pebble ES,SPCSA,65.0,3,NO,63.5,61.7,44.1,YES,YES,NO,NO,NO,54.6,48.5,40.7,,,,,,,,9.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,55204.2,Doral W Pebble MS,SPCSA,87.5,5,NO,64.4,53.2,48.7,YES,YES,NO,NO,NO,59.8,51,33.3,>95,,,,,,,6.5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,57424.1,Honors ACAD ES,SPCSA,23.33,1,NO,42.6,29.4,13,YES,YES,NO,NO,NO,27.6,17,-,,,,,,,,10.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,57424.2,Honors ACAD MS,SPCSA,60.56,3,NO,40.5,31.8,36,YES,YES,NO,NO,NO,43,41.5,-,>95,,,,,,,6.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58422.1,Pinecrest Horizon ES,SPCSA,92.0,5,NO,69.2,73.4,17.9,YES,YES,NO,NO,NO,72,75.1,76.9,,,,,,,,20.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58423.1,Pinecrest Cadence ES,SPCSA,88.5,5,NO,65.5,63.8,51.7,YES,YES,NO,NO,NO,66.9,65.9,59,,,,,,,,23.5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58423.2,Pinecrest Cadence MS,SPCSA,66.0,3,NO,55.7,50.5,39,YES,YES,NO,NO,NO,52.5,54.2,20,84,,,,,,,19.6,NO,,NO,,YES,2.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58423.3,Pinecrest Cadence HS,SPCSA,89.44,5,NO,73.2,46.5,36.4,YES,YES,NO,NO,NO,,,-,,97.6,69.2,62.6,55,>95,>95,21.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58425.1,Pinecrest Inspirada ES,SPCSA,80.5,4,NO,83.2,85.9,62,YES,YES,NO,NO,NO,70.8,65.1,69.2,,,,,,,,9.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58425.2,Pinecrest Inspirada MS,SPCSA,95.0,5,NO,83.9,75.9,70,YES,YES,NO,NO,NO,80.4,72.2,-,87.8,,,,,,,5.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58427.1,Pinecrest St Rose ES,SPCSA,91.0,5,NO,71.6,73.4,56.3,YES,YES,NO,NO,NO,61.7,71.4,46.1,,,,,,,,7.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58427.2,Pinecrest St Rose MS,SPCSA,96.11,5,NO,78.7,58,68.4,YES,YES,NO,NO,NO,77.5,54.6,-,>95,,,,,,,9.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58428.1,Pinecrest Sloan ES,SPCSA,85.5,5,NO,78.4,80.6,28.2,YES,YES,NO,NO,NO,67.6,73,41.6,,,,,,,,11,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58428.2,Pinecrest Sloan MS,SPCSA,74.44,4,NO,62.4,53.6,58.8,YES,YES,NO,NO,NO,56.8,49.8,-,>95,,,,,,,8.5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58428.3,Pinecrest Sloan HS,SPCSA,89.23,Not Rated,NO,79.4,49.5,32.3,YES,YES,NO,NO,NO,,,21.4,,96.2,86,73.2,,,,18.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58429.2,PAN Virtual MS,SPCSA,32.78,2,NO,51.4,23.5,33.3,NO,YES,YES,NO,NO,46.4,18.5,,52.3,,,,,,,21.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,58429.3,PAN Virtual HS,SPCSA,15.0,Not Rated,NO,,,-,,,NO,NO,NO,,,,,42.8,,,,,,21.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59119.1,Somerset NLV ES,SPCSA,24.5,1,YES,35.4,31.5,16.8,YES,YES,NO,NO,NO,34.5,31.1,29.7,,,,,,,,16.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59120.1,Somerset Losee ES,SPCSA,53.0,3,YES,42.9,33.4,13.7,YES,YES,NO,NO,NO,47.3,48.4,31.5,,,,,,,,12.7,NO,,NO,,YES,3.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59120.2,Somerset Losee MS,SPCSA,44.5,2,YES,37.9,20.8,27.1,YES,YES,YES,NO,NO,39,22.2,36.6,>95,,,,,,,16.8,NO,,NO,,YES,3.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59120.3,Somerset Losee HS,SPCSA,57.0,3,YES,41.8,15.5,7.1,YES,YES,NO,NO,NO,,,17.6,,90.9,47.2,18.4,45.6,>95,>95,21.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59121.1,Somerset Lone Mtn ES,SPCSA,85.5,5,NO,57.5,57.8,23.4,YES,YES,NO,NO,NO,61.9,59.1,57.6,,,,,,,,8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59121.2,Somerset Lone Mtn MS,SPCSA,69.5,3,NO,56,42.2,52,YES,YES,NO,NO,NO,54.8,42.5,25,>95,,,,,,,10.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59122.1,Somerset Sky Pointe ES,SPCSA,90.0,5,NO,63.7,67.9,44.8,YES,YES,NO,NO,NO,69.3,68.5,9,,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59122.2,Somerset Sky Pointe MS,SPCSA,97.78,5,NO,67.4,62.9,54.6,YES,YES,NO,NO,NO,63.8,65.5,-,93.8,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59122.3,Somerset Sky Pointe HS,SPCSA,67.5,3,NO,59.2,25.1,28,YES,YES,NO,NO,NO,,,<5,,99.1,57.3,30.3,22.3,>95,>95,6.3,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59123.1,Somerset Stephanie ES,SPCSA,65.5,3,NO,54.6,50.6,48.9,YES,YES,NO,NO,NO,57.2,54.5,18.7,,,,,,,,12.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59123.2,Somerset Stephanie MS,SPCSA,85.5,5,NO,58.3,40.2,48.4,YES,YES,NO,NO,NO,60.7,46.6,35.7,89.1,,,,,,,18,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59124.1,Somerset Aliante ES,SPCSA,56.0,3,NO,54.3,52.4,31,YES,YES,NO,NO,NO,41.7,44,56.5,,,,,,,,10.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59124.2,Somerset Aliante MS,SPCSA,76.0,4,NO,58.5,35.8,37.6,YES,YES,NO,NO,NO,58.8,38.2,10,93.3,,,,,,,9.5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59125.1,Somerset Skye Canyon ES,SPCSA,91.0,5,NO,66.4,73.6,56.3,YES,YES,NO,NO,NO,70.8,75.5,41.6,,,,,,,,6.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,59125.2,Somerset Skye Canyon MS,SPCSA,94.44,5,NO,69.4,58.1,68.3,YES,YES,NO,NO,NO,67.8,57.7,-,>95,,,,,,,8.1,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,61415.1,Discovery Sandhill ES,SPCSA,40.0,2,NO,18.1,24.2,10,YES,YES,NO,NO,NO,18.7,56.2,45.4,,,,,,,,36.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,61417.1,Discovery Hill Pointe ES,SPCSA,42.5,2,NO,51.2,53.7,17.8,YES,YES,NO,NO,NO,49.2,47.7,15.7,,,,,,,,26.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,61417.2,Discovery Hill Pointe MS,SPCSA,47.5,2,NO,49.5,30.2,35.7,YES,YES,NO,NO,NO,49.5,31.1,16.6,>95,,,,,,,26.3,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,65414.1,Oasis ACAD ES,SPCSA,73.0,4,NO,61.1,55.9,41.4,YES,YES,NO,NO,NO,50.3,55.1,47,,,,,,,,13.1,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,65414.2,Oasis ACAD MS,SPCSA,86.67,5,NO,65.2,52.1,65.9,YES,YES,NO,NO,NO,62.5,52.2,,>95,,,,,,,10.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,65414.3,Oasis ACAD HS,SPCSA,92.78,5,NO,68.8,35.5,36.3,YES,YES,NO,NO,NO,,,-,,100,>95,>95,64.8,>95,>95,9.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,66436.1,Doral Northern NV ES,SPCSA,87.22,5,NO,73.3,72.4,52.3,YES,YES,NO,NO,NO,61.6,64.5,-,,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,66436.2,Doral Northern NV MS,SPCSA,87.78,5,NO,70,59.5,68.6,YES,YES,NO,NO,NO,65.8,55.1,,>95,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,68410.1,Elko Institute ES,SPCSA,86.11,5,NO,60.9,56.2,28.5,YES,YES,NO,NO,NO,68.2,51.2,-,,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,68410.2,Elko Institute MS,SPCSA,94.44,5,NO,56.6,54.2,68.4,YES,YES,NO,NO,NO,64.1,65.3,-,84.2,,,,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,72416.1,Quest Northwest ES,SPCSA,18.5,1,YES,29.7,23.5,9,YES,YES,NO,NO,NO,38.9,13.1,25,,,,,,,,11.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,72416.2,Quest Northwest MS,SPCSA,70.0,4,YES,45.1,16.9,39.4,YES,YES,NO,NO,NO,47.7,23.8,-,>95,,,,,,,7.5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,74418.1,Imagine Mtn View ES,SPCSA,26.5,1,NO,42.6,37.4,15.9,YES,YES,NO,NO,NO,38,36,32.6,,,,,,,,28,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,74418.2,Imagine Mtn View MS,SPCSA,59.77,3,NO,45.6,24.5,,YES,YES,NO,NO,NO,56.1,29.8,-,,,,,,,,32.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,76412.3,Alpine Acad HS,SPCSA,65.0,3,NO,47.2,18.9,30,YES,YES,NO,NO,NO,,,,,100,47.3,21,33.3,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,78411.1,Silver Sands ES,SPCSA,8.89,1,NO,30.1,15,<5,YES,YES,NO,NO,NO,29.5,18.1,-,,,,,,,,28.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,78411.2,Silver Sands MS,SPCSA,58.33,3,NO,43.9,24.2,33.3,YES,YES,NO,NO,NO,49.1,29.5,-,90,,,,,,,19.1,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,81101.3,NSHS Downtown HS,SPCSA,85.0,5,YES,44.4,22.2,,-,,NO,NO,NO,,,-,,,>95,>95,85.7,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,81102.3,NSHS Summerlin HS,SPCSA,100.0,5,YES,70.7,50.7,,YES,YES,NO,NO,NO,,,-,,,>95,>95,78.1,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,81103.3,NSHS Henderson HS,SPCSA,100.0,5,NO,80.3,50.4,,YES,YES,NO,NO,NO,,,,,,>95,>95,91.3,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,81104.3,NSHS Sunrise HS,SPCSA,91.25,5,YES,65.6,18.7,,YES,YES,NO,NO,NO,,,-,,,>95,>95,68.4,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,81106.3,NSHS SW HS,SPCSA,96.25,5,YES,69.6,34.8,,YES,YES,NO,NO,NO,,,-,,,>95,94.7,83.1,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,81107.3,NSHS DownTwn Hend HS,SPCSA,100.0,5,NO,70.3,42.5,,YES,YES,NO,NO,NO,,,,,,>95,>95,90.9,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,81108.3,NSHS NW HS,SPCSA,100.0,5,NO,75,44.2,,YES,YES,NO,NO,NO,,,-,,,>95,>95,80,>95,>95,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,81109.3,NSHS North Las Vegas HS,SPCSA,71.11,Not Rated,YES,41.8,16.2,,YES,YES,NO,NO,NO,,,,,,>95,93.7,,,,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,85405.3,NV Connections ACAD HS,SPCSA,56.0,3,YES,43.5,8.3,26.3,YES,YES,NO,NO,NO,,,10,,76,94.7,79,25.4,80.6,87,16,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,86404.2,Nevada Virtual ACAD MS,SPCSA,33.0,2,YES,34.2,12.8,25.8,YES,YES,NO,NO,NO,31.4,14,11.5,>95,,,,,,,<5,NO,,NO,,YES,4.0,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,86404.3,Nevada Virtual ACAD HS,SPCSA,61.0,3,YES,35.3,10.6,29.9,YES,YES,NO,NO,NO,,,12.9,,80.2,79.5,12,34.1,86,88,<5,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87310.1,CASLV Centennial ES,SPCSA,97.78,5,NO,72,68.4,37.5,YES,YES,NO,NO,NO,74.2,66.9,-,,,,,,,,8.3,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87310.2,CASLV Centennial MS,SPCSA,80.0,5,NO,62.4,57.2,60.3,YES,YES,NO,NO,NO,53.7,63.6,-,>95,,,,,,,5.9,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87311.1,CASLV Nellis AFB ES,SPCSA,39.44,2,NO,51.7,44.6,12.1,YES,YES,NO,NO,NO,45.2,34.9,-,,,,,,,,20.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87311.2,CASLV Nellis AFB MS,SPCSA,66.11,3,NO,46.8,30.6,42.5,YES,YES,NO,NO,NO,46.9,39,-,>95,,,,,,,19,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87312.2,CASLV Sandy Ridge MS,SPCSA,65.0,3,NO,75.7,56.5,66.6,YES,YES,NO,NO,NO,73.6,55.3,-,>95,,,,,,,11.1,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87312.3,CASLV Sandy Ridge HS,SPCSA,91.5,5,NO,78.5,67.1,53.7,YES,YES,NO,NO,NO,,,14.2,,98.6,91.5,50,71.1,>95,>95,13.8,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87313.1,CASLV Tamarus ES,SPCSA,87.0,5,NO,77.7,77.1,,YES,YES,NO,NO,NO,66.3,58.2,50,,,,,,,,5.6,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87314.1,CASLV Windmill ES,SPCSA,83.53,4,NO,81.5,71.5,56.9,YES,YES,NO,NO,NO,65.8,68.2,-,,,,,,,,8.3,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87314.2,CASLV Windmill MS,SPCSA,93.1,5,NO,77.1,61,,YES,YES,NO,NO,NO,71.4,62.2,-,,,,,,,,10.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87315.1,CASLV Eastgate ES,SPCSA,78.5,4,NO,68.8,63.9,35.5,YES,YES,NO,NO,NO,67.8,58.9,36.3,,,,,,,,19.7,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87315.2,CASLV Eastgate MS,SPCSA,88.51,5,NO,62.3,63.6,,YES,YES,NO,NO,NO,65.7,71,-,,,,,,,,20.4,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87316.1,CASLV Cadence ES,SPCSA,44.0,2,YES,58.8,42.6,26.8,YES,YES,NO,NO,NO,56.4,19.5,50,,,,,,,,22.2,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87316.2,CASLV Cadence MS,SPCSA,75.5,4,YES,60,38.9,55.5,YES,YES,NO,NO,NO,57.6,41,44.4,>95,,,,,,,20.1,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,87316.3,CASLV Cadence HS,SPCSA,,Not Rated,YES,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,64843,SPCSA,2023
+2023,18,State Public Charter School Authority ,89409.3,Beacon ACAD HS,SPCSA,4.44,1,YES,9.3,<5,-,NO,NO,YES,NO,NO,,,<5,,-,22.8,<4.5,<5,17.8,36.1,41.2,YES,5.0,NO,,NO,,64843,SPCSA,2023
+2023,20,Correctional,79903.2,Independence MS,Correctional,,Not Rated,NO,,,,,,NO,NO,NO,,,,,,,,,,,,NO,,NO,,NO,,65623,Correctional,2023
+2023,20,Correctional,79903.3,Independence HS,Correctional,0.0,Not Rated,NO,-,-,-,-,,YES,NO,NO,,,,,,,,,<5,25.0,,YES,3.0,NO,,NO,,65623,Correctional,2023
