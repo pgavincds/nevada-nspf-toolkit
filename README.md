@@ -65,7 +65,12 @@ Copy code
 
 ## Contributing & contact
 Suggestions and issues are welcome.  
-Contact: add your email here.
+Contact: pgavin@charterdevelopmentstrategies.com
 
 ## License
 MIT — see `LICENSE`.
+
+## Downloads
+- [Statewide SchoolRatings MASTER (2024–25 CSV)](data/2024-25/SchoolRatings_MASTER_2024-25.csv)
+- [Statewide SchoolRatings MASTER (2023–24 CSV)](data/2023-24/SchoolRatings_MASTER_2023-24.csv)
+- [Statewide SchoolRatings MASTER (2022–23 CSV)](data/2022-23/SchoolRatings_MASTER_2022-23.csv)
