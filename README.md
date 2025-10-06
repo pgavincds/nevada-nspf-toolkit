@@ -1,76 +1,180 @@
-# nevada-nspf-toolkit
+# Nevada NSPF Toolkit
 
-Tools to download and merge Nevada Report Card (NSPF) **district school ratings** CSVs by *column year* into a single statewide file.  
-This project is **unofficial** and not affiliated with the Nevada Department of Education.
+Utilities to fetch and merge Nevada School Performance Framework (NSPF) public data with year-aware filenames and reproducibility helpers (schema snapshots + manifest).
 
-## What this does
-- Downloads per-district CSVs from public report-card endpoints for a chosen **column year** (e.g., `2024` → **2023–24** school year).
-- Saves files in a **year-specific folder** with year-labeled filenames.
-- Merges all district files into one statewide CSV (and optionally Excel).
+• Downloads each district’s “District School Ratings” CSV for a given column year (example: --year 2025 → label 2024–25).  
+• Merges district CSVs into a statewide master (CSV and optional Excel).  
+• Pulls Enrollment (Validation Day) workbook and emits a normalized school-level preview CSV.  
+• Fetches NSPF Disaggregated ZIP.  
+• Builds a crosswalk of district/school codes; keeps decimal school codes (e.g., 1301.2) used to denote ES/MS/HS bands within a campus.  
+• Captures schema header snapshots and a year manifest (file sizes + SHA256) for auditability.
 
-## What this does **not** do
-- It doesn’t bypass authentication, quotas, or rate limits.
-- It doesn’t scrape hidden data; it only automates downloads of publicly available files.
-
-## Requirements
-- Python 3.9+
-- `pandas` (see `requirements.txt`)
-- Optional: `openpyxl` (for Excel output)
-
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-
-shell
-Copy code
+----------------------------------------------------------------
 
 ## Quick start
-1) Prepare the district list:
-mkdir -p out
-cp examples/district_ids.json out/district_ids.json
 
-markdown
-Copy code
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
+    # optional helpers used by some scripts
+    pip install openpyxl requests beautifulsoup4
 
-2) Download for **2023–24** (column year `2024`):
-python bulk_download_yeared.py --year 2024
+----------------------------------------------------------------
 
-sql
-Copy code
+## Pull & merge district ratings (example: 2024–25)
 
-3) Merge to a statewide file (add `--excel` if you installed `openpyxl`):
-python merge_yeared.py --year 2024 --excel
+NSPF “column year” drives the label. For label 2024–25, pass --year 2025.
 
-markdown
-Copy code
+Download all district CSVs (polite pacing):
 
-**Outputs**
-downloads/2024/SchoolRatings_2023-24_<district_id>_<district>.csv
-statewide/SchoolRatings_MASTER_2023-24.csv
-statewide/SchoolRatings_MASTER_2023-24.xlsx
+    python bulk_download_yeared.py --year 2025 --sleep 1.0
 
-sql
-Copy code
+Merge to statewide (CSV; add --excel for .xlsx):
 
-> Mapping: `--year 2024` → **2023–24**; `--year 2023` → **2022–23**.
+    python merge_yeared.py --year 2025 --excel
 
-## Etiquette & reliability
-- Requests are paced with a small delay; increase with `--sleep 1.0` if desired.
-- The downloader uses `curl` with retries for robustness.
-- If a district’s CSV is empty in a given year (e.g., not rated / suppressed), it’s skipped during merge.
+(Optional) stage copies under data/<label>:
 
-## Troubleshooting
-- SSL issues are avoided because downloads use `curl`.
-- Empty CSVs are expected for some LEAs in some years.
-- Run the same commands with another `--year` to pull other years; files won’t overwrite.
+    mkdir -p data/2024-25
+    cp statewide/SchoolRatings_MASTER_2024-25.csv  data/2024-25/
+    cp statewide/SchoolRatings_MASTER_2024-25.xlsx data/2024-25/ 2>/dev/null || true
+
+----------------------------------------------------------------
+
+## Enrollment (Validation Day) + preview (2024–25)
+
+Download the official workbook (xlsx):
+
+    python fetch_enrollment.py --year 2025
+    # -> data/enrollment/2024-25.xlsx
+
+Produce normalized preview with district/school codes retained:
+
+    python make_enrollment_preview_2025.py
+    # -> data/enrollment/2024-25_preview.csv
+
+----------------------------------------------------------------
+
+## NSPF Disaggregated ZIP (2024–25)
+
+    python fetch_nspf_disagg.py --year 2025
+    # -> data/nspf-disagg/2024-25.zip
+    #    extracted files under data/nspf-disagg/2024-25/
+
+----------------------------------------------------------------
+
+## Crosswalk (codes & names; decimals preserved)
+
+Build crosswalk from Ratings + Enrollment preview:
+
+    python build_crosswalk_2025.py
+    # -> statewide/crosswalk_ids_2024-25.csv
+
+Fill missing district_id using district code/name mapping from Ratings:
+
+    python fill_crosswalk_ids_by_dcode_2025.py
+    # -> statewide/crosswalk_ids_2024-25_filled.csv
+
+Crosswalk columns:
+- district_code (numeric-like code seen in report files)
+- district_id   (NSPF DI id, e.g., 64841 = Washoe)
+- district_name
+- school_code   (string; decimals kept like 1301.2)
+- school_name
+
+Why decimals? NSPF uses decimal suffixes to represent level bands (ES/MS/HS) within a campus. Keeping them verbatim preserves join fidelity across files.
+
+----------------------------------------------------------------
+
+## Join sanity check (optional)
+
+    python check_join_keys_2025.py
+    # Prints row counts, inferred key columns, and sample normalized keys.
+
+----------------------------------------------------------------
+
+## Reproducibility (schema snapshots + manifest)
+
+Snapshot headers for the year (ratings master, enrollment preview, disagg listing):
+
+    python tools/snapshot_headers.py --year 2025
+    # -> schema/2024-25/ratings_master_headers.json
+    # -> schema/2024-25/enrollment_preview_headers.json
+    # -> schema/2024-25/disagg_file_list.json
+
+Generate a per-year manifest with byte sizes and SHA256 hashes:
+
+    python tools/gen_manifest.py --year 2025
+    # -> data/manifests/manifest_2024-25.csv
+
+Verify local files match the manifest (OK/BAD tally):
+
+    python - <<'PY'
+    import csv, hashlib, pathlib
+    root = pathlib.Path(".")
+    mf = root/"data/manifests/manifest_2024-25.csv"
+    ok = bad = 0
+    with mf.open() as f:
+        for row in csv.DictReader(f):
+            p = root/row["path"]
+            h = hashlib.sha256(p.read_bytes()).hexdigest()
+            if h == row["sha256"]: ok += 1
+            else: bad += 1
+    print("OK:", ok, "BAD:", bad)
+    PY
+
+----------------------------------------------------------------
+
+## Example: pandas join via crosswalk
+
+    import pandas as pd
+
+    # Ratings (statewide master)
+    R = pd.read_csv("statewide/SchoolRatings_MASTER_2024-25.csv", dtype=str)
+    R["district_code"] = R["District Code"].str.replace(r"[^\d]", "", regex=True)
+    R["school_code"]   = R["NSPF School Code"].astype(str)  # keep decimals
+
+    # Enrollment preview
+    E = pd.read_csv("data/enrollment/2024-25_preview.csv", dtype=str)
+    E["district_code"] = E["Local Education Agency Code"].str.replace(r"[^\d]", "", regex=True)
+    E["school_code"]   = E["School Code"].astype(str)
+
+    # Crosswalk (filled)
+    X = pd.read_csv("statewide/crosswalk_ids_2024-25_filled.csv", dtype=str)
+
+    # Example join: enrich ratings with enrollment school names
+    R2 = (R.merge(X[["district_code","school_code"]].drop_duplicates(),
+                  on=["district_code","school_code"], how="left")
+            .merge(E[["district_code","school_code","School Name"]],
+                   on=["district_code","school_code"], how="left",
+                   suffixes=("","_enroll")))
+
+----------------------------------------------------------------
+
+## What’s already in the repo (examples)
+
+- data/2022-23/SchoolRatings_MASTER_2022-23.csv  
+- data/2023-24/SchoolRatings_MASTER_2023-24.csv  
+- data/2024-25/SchoolRatings_MASTER_2024-25.csv (+ .xlsx)  
+- schema/2024-25/*.json (header snapshots)  
+- data/manifests/manifest_2024-25.csv
+
+----------------------------------------------------------------
+
+## Notes & caveats
+
+- Some LEAs/schools legitimately produce empty or suppressed CSVs in a given year (e.g., University LEA).
+- Column names can shift year-to-year → rely on schema/<label>/ as year-specific truth.
+- Disaggregated ZIP contents may change → treat fields as year-specific unless confirmed stable.
+- Downloads use curl/requests with retries; please keep request rates polite (e.g., --sleep 1.0).
+
+----------------------------------------------------------------
 
 ## Contributing & contact
-Suggestions and issues are welcome.  
+
+Issues and PRs welcome—especially to extend crosswalks (e.g., NCES IDs) or add additional public pulls.  
 Contact: pgavin@charterdevelopmentstrategies.com
 
-## License
-MIT — see `LICENSE`.
+License: MIT
 
-## Downloads
-- [Statewide SchoolRatings MASTER (2024–25 CSV)](data/2024-25/SchoolRatings_MASTER_2024-25.csv)
-- [Statewide SchoolRatings MASTER (2023–24 CSV)](data/2023-24/SchoolRatings_MASTER_2023-24.csv)
-- [Statewide SchoolRatings MASTER (2022–23 CSV)](data/2022-23/SchoolRatings_MASTER_2022-23.csv)
+(Last updated: 2025-10-05)
