@@ -1,0 +1,31 @@
+{
+  "file": "2024-25_preview.csv",
+  "columns": [
+    "district_code",
+    "school_code",
+    "Local Education Agency Code",
+    "Local Education Agency Name",
+    "Master District Code",
+    "Master District Name",
+    "School Code",
+    "School Name",
+    "Total",
+    "Female",
+    "Male",
+    "Gender Data Unavailable",
+    "Asian",
+    "Black/African American",
+    "White",
+    "Hispanic/Latino",
+    "American Indian/Alaskan Native",
+    "Two or more races",
+    "Native Hawaiian or Pacific Islander",
+    "FRL",
+    "IEP",
+    "EL",
+    "MIG",
+    "Foster",
+    "Military",
+    "Homeless"
+  ]
+}
