@@ -1,0 +1,18 @@
+<svg width="552" height="552" viewBox="0 0 552 552" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Time To Cook logo</title>
+  <desc id="desc">A pastel chef hat, Time To Cook lettering, and spoon mark.</desc>
+  <rect x="1" y="1" width="550" height="550" fill="white" stroke="#8B5CF6" stroke-width="2"/>
+  <path d="M243 156c-18-9-43 4-40 30 3 22 28 33 48 23m79-1c20 11 45 0 42-23-3-26-29-39-43-30-13-42-68-46-86 1" stroke="#F0B1D0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M246 159c26-7 57-10 85 13" stroke="#F0B1D0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M246 207c6 21 12 43 8 61m67-61c-8 21-10 43-4 61" stroke="#F0B1D0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M262 232c16-2 35-1 51 3m-38 21c12-1 25 0 38 3" stroke="#F0B1D0" stroke-width="5" stroke-linecap="round"/>
+  <text x="276" y="230" font-family="Brush Script MT, Segoe Script, cursive" text-anchor="middle" font-size="62" fill="#F27F75">Time To</text>
+  <text x="276" y="269" font-family="Arial Black, Montserrat, sans-serif" text-anchor="middle" font-size="50" font-weight="900" fill="#FFD735">COOK</text>
+  <text x="276" y="296" font-family="Montserrat, Arial, sans-serif" text-anchor="middle" font-size="18" font-weight="800" letter-spacing="1" fill="#5D7069">AN APP TO HELP YOU</text>
+  <text x="276" y="326" font-family="Montserrat, Arial, sans-serif" text-anchor="middle" font-size="18" font-weight="800" letter-spacing="1" fill="#5D7069">COOK</text>
+  <path d="M169 358c45 7 92-10 122-27" stroke="#F04D4E" stroke-width="9" stroke-linecap="round"/>
+  <path d="M245 351c21 3 40 3 63-8" stroke="#F04D4E" stroke-width="7" stroke-linecap="round"/>
+  <path d="M244 390c8-18 35-20 48-7 31-4 56-16 72-30" stroke="#F04D4E" stroke-width="9" stroke-linecap="round"/>
+  <ellipse cx="270" cy="388" rx="25" ry="10" fill="#F04D4E" transform="rotate(-6 270 388)"/>
+  <circle cx="224" cy="383" r="6" fill="#EBA6D2"/><circle cx="298" cy="361" r="4" fill="#EBA6D2"/><circle cx="241" cy="412" r="3" fill="#EBA6D2"/><circle cx="319" cy="347" r="2.5" fill="#EBA6D2"/><circle cx="310" cy="407" r="4" fill="#EBA6D2"/>
+</svg>
