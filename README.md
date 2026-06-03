@@ -169,21 +169,6 @@ Verify local files match the manifest (OK/BAD tally):
 - Downloads use curl/requests with retries; please keep request rates polite (e.g., --sleep 1.0).
 
 
-----------------------------------------------------------------
-
-## Time To Cook demo app
-
-This repository now also includes a self-contained prototype for **Time To Cook**, a fridge/freezer photo-to-recipe web app. The demo lets a user upload or take a food photo, confirm detected ingredients, receive ranked recipe ideas, and play through step-by-step video-style cooking instructions.
-
-Run it locally with any static file server:
-
-    python3 -m http.server 8000 --directory app
-
-Then open `http://localhost:8000` in a browser. The prototype is intentionally front-end only, so it can be connected later to a real computer-vision or recipe-video generation service without changing the user flow.
-
-For easy browser-only publishing, `time-to-cook-app.html` is a single-file copy of the app with the styles, JavaScript, and logo embedded. You can upload it to GitHub as `index.html` for GitHub Pages.
-
-----------------------------------------------------------------
 
 ## Contributing & contact
 
